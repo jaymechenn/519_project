@@ -1,0 +1,26 @@
+Baseline Model: TF-IDF + Logistic Regression
+=======================================================
+
+Validation Accuracy: 0.7750
+Test Accuracy: 0.7789
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+         NBC       0.79      0.72      0.75       360
+     FoxNews       0.76      0.83      0.79       400
+
+    accuracy                           0.78       760
+   macro avg       0.78      0.77      0.77       760
+weighted avg       0.78      0.78      0.77       760
+
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+         NBC       0.80      0.72      0.75       360
+     FoxNews       0.77      0.83      0.80       400
+
+    accuracy                           0.78       760
+   macro avg       0.78      0.78      0.78       760
+weighted avg       0.78      0.78      0.78       760

@@ -1,0 +1,51 @@
+News Source Classification: Data Processing and EDA Summary
+=================================================================
+
+Raw data path: c:\Users\diego\Downloads\5190 Final Project\Resources\csv\url_with_headlines.csv
+Original dataset shape: (3805, 2)
+Cleaned dataset shape: (3799, 7)
+
+Class counts:
+source
+FoxNews    2000
+NBC        1799
+
+Class percentages:
+source
+FoxNews    52.65
+NBC        47.35
+
+Headline word length summary:
+count    3799.000000
+mean       13.298236
+std         2.878764
+min         4.000000
+25%        11.000000
+50%        13.000000
+75%        15.000000
+max        39.000000
+
+Headline character length summary:
+count    3799.000000
+mean       82.946038
+std        17.122902
+min        22.000000
+25%        71.000000
+50%        83.000000
+75%        97.000000
+max       238.000000
+
+Split sizes:
+Train: (2279, 7)
+Validation: (760, 7)
+Test: (760, 7)
+
+Cleaning procedure:
+- Source labels were extracted from the article URLs.
+- URLs were not used as model features because the task is to classify source from headline text only.
+- Headlines were lightly cleaned by normalizing whitespace.
+- Rows with missing or invalid headlines were removed.
+- Rows with unknown source domains were removed.
+- Exact duplicate headlines were removed.
+- Numeric labels were created with FoxNews = 1 and NBC = 0.
+- The dataset was split into train, validation, and test sets using stratified sampling.
