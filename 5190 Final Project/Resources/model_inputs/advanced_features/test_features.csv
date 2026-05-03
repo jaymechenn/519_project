@@ -1,0 +1,761 @@
+headline_length_words,headline_length_chars,avg_word_length,num_uppercase_words,num_digits,num_exclamation_marks,num_question_marks,num_commas,num_colons,num_semicolons,contains_quote,contains_colon,contains_question,contains_number,starts_with_how,starts_with_why,starts_with_what,label,source,headline_clean
+13,89,5.923076923076923,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"California man accused of drugging, sexually assaulting nine women is charged with murder"
+13,80,5.230769230769231,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'Kamala Era': DNC launches Taylor Swift themed campaign in pitch to young voters
+13,92,6.153846153846154,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Newlywed couple reveals details of their unique destination wedding in Mexico: 'Perfect day'
+15,94,5.333333333333333,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump calls GOP candidate with a history of offensive remarks 'Martin Luther King on steroids'
+12,80,5.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Harris heads to southern border looking to flip script on immigration criticisms
+8,56,6.125,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Power Rankings: The biggest surprises come after October
+15,101,5.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Ukraine defense minister confident can replenish troops but in need of weapons, equipment from allies"
+10,55,4.6,0,2,0,0,2,0,0,0,0,0,1,0,0,0,0,NBC,"Sultan Qaboos bin Said, who modernized Oman, dies at 79"
+12,71,5.0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Texas AG sues doctor accused of providing transgender care to 21 minors
+11,71,5.545454545454546,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,South Korean president pledges to focus on economy after election shock
+13,82,5.384615384615385,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Prosecutor to seek death penalty, hate crime charges in Atlanta area spa shootings"
+14,76,4.5,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,FoxNews,Vance vs. Walz: Think VP debates don't matter? Just look at these 6 examples
+12,81,5.833333333333333,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Three fugitives convicted in $18 million Covid relief scam captured in Montenegro
+17,107,5.352941176470588,0,0,0,0,4,0,0,1,0,0,0,0,0,0,1,FoxNews,"Craig Morgan reflects on faith, family, country music stardom and loss in his memoir 'God, Family, Country'"
+18,88,3.9444444444444446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Best Buy just announced all of its holiday sale events for the year and it’s a long list
+11,77,6.090909090909091,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Biden admin eco rule curbing oil drilling, mining faces widespread opposition"
+17,90,4.352941176470588,0,1,0,0,3,1,0,0,1,0,1,0,0,0,1,FoxNews,"Ohio mother hopes for a cure to save her son, 8, from rare, fatal disease: ‘Gut wrenching’"
+9,63,6.111111111111111,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Is white chocolate really chocolate? Experts settle the debate.
+10,73,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Bangladesh tribunal issues arrest warrant for former leader Sheikh Hasina
+16,80,4.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,I tried Yeti’s French press for a month here’s why I’ll keep using it for months
+10,67,5.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,New poll shows Trump holds lead with ‘remarkably resilient’ support
+15,90,5.066666666666666,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Power Rankings Issues Tracker: Trump leads on two top issues, but Harris is gaining ground"
+16,110,5.9375,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Charlie Sheen's ex Denise Richards vows to ‘support’ their daughter Sami after actor disapproves OnlyFans page
+10,69,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Ohio Democrats see abortion restrictions as an opening against DeWine
+13,79,5.153846153846154,1,4,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Sen. Tammy Baldwin repays taxpayer funded November 2020 NYC trip to see partner
+11,67,5.181818181818182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Flag Day is a patriotic spectacle in these all American communities
+11,76,6.0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,MSNBC yanks anti Trump 'Morning Joe' off air following assassination attempt
+16,87,4.5,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Acne is becoming more common among U.S. adults look for these 4 ingredients to treat it
+12,58,3.9166666666666665,0,4,0,0,0,0,0,0,0,0,1,1,0,0,0,NBC,How to find the best soft mattress for great sleep in 2022
+12,84,6.083333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Judge Aileen Cannon denies another Trump motion to dismiss classified documents case
+17,84,4.0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Ex cop who stormed the Capitol on Jan. 6 sentenced to record tying 7 years in prison
+16,97,5.125,1,2,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Japanese soufflé pancake gaining popularity in US, yet origin story begins in Hawaii 15 years ago"
+8,57,6.25,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Israel Defense Forces confirm 'targeted strike' on Beirut
+9,55,5.222222222222222,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Jan. 6 panel adds last minute hearing Tuesday afternoon
+16,103,5.5,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Top Republican demands Biden admin block Iranian foreign minister's visit to UN: 'an insult' to victims
+15,88,4.933333333333334,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Biden's EPA has coordinated with left wing eco groups tied to liberal dark money network
+14,85,5.142857142857143,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,NBC,"Why Sunbasket is great for dietary restrictions, as told by a gluten free pescatarian"
+17,101,5.0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,FoxNews,"Should you drink coffee first thing in the morning, or wait a while? Experts reveal caffeine guidance"
+15,93,5.266666666666667,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Donny Deutsch: Democrats losing on economy, so we need to 'scare' voters against ‘racist’ GOP"
+16,96,5.0625,0,6,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Trump Vance ticket has done combined 105 interviews since August compared to 103 for Harris Walz
+14,102,6.357142857142857,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Hospital that delayed emergency abortion bears blame for Georgia woman’s death, family’s lawyer claims"
+15,105,6.066666666666666,0,0,0,0,2,1,0,1,1,0,0,0,0,0,1,FoxNews,"'Out of money': Whistleblowers allege lack of Secret Service funds, delayed payments, top senator reveals"
+15,90,5.066666666666666,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"White House warns of 'ultra MAGA' policies, abortion ban if GOP takes majority in Congress"
+14,79,4.714285714285714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Tourists who came for a sunny Disney vacation are instead stranded by the storm
+6,27,3.6666666666666665,0,6,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Meet the Press May 12, 2024"
+14,101,6.285714285714286,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Anti Israel protesters arrested after locking themselves inside fence at NASCAR's Chicago Street Race
+12,70,4.916666666666667,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,U.S. and allies propose 21 day cease fire between Israel and Hezbollah
+10,70,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Supreme Court hears cases on prolonged detention of illegal immigrants
+14,85,5.142857142857143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Trump says he was 'shot with a bullet' in assassination attempt at Pennsylvania rally
+13,95,6.384615384615385,1,0,0,0,2,0,0,1,0,0,0,0,0,0,1,FoxNews,"Florida, Oklahoma instruct schools to ignore Biden's Title IX changes, pending legal challenges"
+9,66,6.444444444444445,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Caregiver fatigue in America rising at unprecedented rate: reports
+10,79,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Historic North Carolina village underwater after devastating damage from Helene
+12,64,4.416666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,U.N. rights chief says Israeli strikes in Gaza may be war crimes
+15,100,5.733333333333333,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,JD Vance calls out Kamala Harris' 'bizarre' answers to Bret Baier: 'Something pathological going on'
+16,102,5.4375,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Israel orders new evacuations in Rafah as it prepares to expand operations in Gaza's southernmost city
+12,87,6.333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,New Orleans braces for drinking water emergency from drought stricken Mississippi River
+12,69,4.833333333333333,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'Napuccino' trend: Caffeine before a nap could be key to better sleep
+14,78,4.642857142857143,0,4,0,0,0,1,0,1,1,0,1,0,0,0,0,NBC,Trump on trial: What to expect in 2024 from the former president's legal cases
+12,79,5.666666666666667,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Are prebiotic sodas actually healthy? The experts we spoke to aren’t convinced.
+20,119,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Fade dark spots and brighten your complexion with this lesser known skin care ingredient that’s safe for all skin types
+16,82,4.1875,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Wife of Jan. 6 officer who died after riot feels duty to represent him at hearings
+15,93,5.266666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,One Direction’s Liam Payne joins long list of musicians who died young amid addiction battles
+11,59,4.454545454545454,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Who is Ryan Wesley Routh: Alleged gunman at Trump golf club
+12,70,4.916666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Stop throwing out moldy shower curtain liners here’s how to clean them
+12,71,5.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Three Kings Day is big in these Latino households, despite Santa's pull"
+15,84,4.666666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Faith leader says parents 'should not trust the world to teach their kids about God'
+18,103,4.777777777777778,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,Netanyahu rival Benny Gantz says he'll quit Israel's war Cabinet on June 8 unless new Gaza plan devised
+12,75,5.333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Gen Z advocacy group launches TikTok campaign against voting for Jill Stein
+11,86,6.909090909090909,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Trump assassination attempt: Fraternal Order of Police blasts Secret Service 'failure'
+15,102,5.866666666666666,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"'Pay for slay': Palestinian Authority may have to compensate families of Hamas terrorists, report says"
+11,83,6.636363636363637,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Walz repeats Georgia abortion death falsehood decried by doctors as 'fearmongering'
+9,54,5.111111111111111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Kremlin claims Trump sent Covid test machines to Putin
+11,65,5.0,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Feds boost reward to $500K for information on Capitol pipe bomber
+14,95,5.857142857142857,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"MSNBC's Nicolle Wallace gushes over Biden in rare live interview, avoids growing Hunter scandal"
+14,93,5.714285714285714,0,0,0,0,2,1,0,0,1,0,0,0,0,0,1,FoxNews,"Father, soldier, son: Relatives of American hostages in Gaza call for their immediate release"
+15,104,6.0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,NASCAR icon Richard Childress describes 'great' reception for JD Vance appearance at North Carolina race
+15,88,4.933333333333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Trump and Harris clashed over tariffs at the debate. Here’s how they affect your wallet.
+10,60,5.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,New poll reveals what Democrats think of Harris as president
+11,73,5.7272727272727275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Pelosi gushes about warm relationship with Bush family amid Biden turmoil
+8,49,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Biden receives more than four minutes of applause
+17,106,5.294117647058823,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Justice Ketanji Brown Jackson says she would support an 'enforceable code' of ethics for the Supreme Court
+11,62,4.7272727272727275,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,NBC,"How to buy the best cat litter box, according to veterinarians"
+15,84,4.666666666666667,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,NBC,"Looking for leads, not love: Job seekers in China turn Tinder into a networking tool"
+13,78,5.076923076923077,0,7,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Lebanon says nearly 500 people were killed and 1,650 injured in Israel bombing"
+15,89,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Judge orders more Jack Smith Trump investigation docs to be made public ahead of election
+12,67,4.666666666666667,1,1,0,0,1,1,0,0,1,0,1,0,0,0,0,NBC,"Back in stock (for now): Walmart, GameStop restocks of Xbox and PS5"
+15,107,6.2,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,NY Times investigating own reporter after she didn't disclose Michael Phelps book deal: 'Significant lapse'
+11,73,5.7272727272727275,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,U.S. officially points finger at Saudi crown prince for Khashoggi killing
+15,107,6.2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Biden to sign executive order aiming to reduce gun violence, eliminate controversial gun conversion devices"
+15,105,6.066666666666666,0,4,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Kamala Harris supported ‘Defund the police’ in 2020 radio interview, before Biden campaign said otherwise"
+17,89,4.294117647058823,1,0,0,1,0,0,0,1,0,1,0,0,0,1,1,FoxNews,What happens to JD Vance's Senate seat if Trump chooses him as veep and wins re election?
+10,77,6.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Pennsylvania family sickened after eating toxic mushrooms expected to recover
+15,86,4.8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,SCOTUS to take up challenge to Biden admin's ghost gun rule that group deems ‘abusive’
+15,77,4.2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Itchy scalp? Your hair washing routine could be at fault here’s how to fix it
+18,100,4.611111111111111,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,NBC,"Confronted by a Republican voter about the Jan. 6 riot, Trump says 'nothing' was done wrong that day"
+14,98,6.071428571428571,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Fetterman lauds Israel for leaving Iran ‘exposed and humiliated’ after strikes on Hamas, Hezbollah"
+7,43,5.285714285714286,0,4,0,1,0,1,0,0,1,1,1,0,0,0,1,FoxNews,National Prayer Breakfast 2022: What is it?
+9,63,6.111111111111111,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Putin accuses Ukraine of 'terrorism' in Crimea bridge explosion
+14,96,5.928571428571429,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Menendez brothers, convicted of killing parents, defended by relatives as they fight for freedom"
+8,54,5.875,1,2,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Eric Clapton positive for COVID 19, postpones concerts"
+17,101,5.0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,CNN data guru says Harris is 'struggling among voters of color' in the Sun Belt: 'Really interesting'
+8,55,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Nevada governor signs new abortion protections into law
+11,58,4.363636363636363,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,'Shogun' and 'The Bear' are set to conquer the Emmy Awards
+13,81,5.3076923076923075,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Cher turned down dating Elvis Presley because she was 'nervous of his reputation'
+13,109,7.461538461538462,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Buttigieg's message on restricting civilian drones near Hurricane Helene damage prompts outcry, clarification"
+14,84,5.071428571428571,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Tim Walz turns down NY Times interview requests about response to George Floyd riots
+9,65,6.333333333333333,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Discord servers used in child abductions, crime rings, sextortion"
+12,77,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Poor posture has increased since the pandemic these ergonomic chairs can help
+14,90,5.5,0,6,0,0,1,0,0,1,0,0,1,0,0,0,0,NBC,"'Swifties for Kamala' joins forces with Carole King and Elizabeth Warren to raise $142,000"
+11,80,6.363636363636363,0,5,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Florida human trafficking sting nabs 157 people, including 25 illegal immigrants"
+14,80,4.785714285714286,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Biden aims to make North Carolina a top battleground but Trump isn't worried yet
+16,101,5.375,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Texas AG files lawsuit against Biden administration for new gun sale requirements: 'Come and take it'
+16,102,5.4375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Harris does interview with raunchy sex and relationship podcast as she continues to avoid many outlets
+14,82,4.928571428571429,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,Summer vacation ideas while there's still time: Here are 6 smart spots to consider
+11,75,5.909090909090909,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,Secret Service chief makes remarkable admission: We need a ‘paradigm shift’
+14,96,5.928571428571429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Storm forecasts have never been more accurate. Meteorologists have never faced so much pushback.
+16,99,5.25,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Racism, sexism must be considered in Atlanta case involving killing of six Asian women, experts say"
+12,83,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Hundreds of Harvard faculty members urge university not to oust embattled president
+15,86,4.8,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,COUNTDOWN: Harris has just 4 days left to make good on sit down interview proclamation
+16,102,5.4375,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Biden warns of nationwide abortion ban if Republicans take majority of Congress: 'The choice is clear'
+18,99,4.555555555555555,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Indian national extradited to U.S. to stand trial in alleged plot to kill Sikh activist in New York
+10,78,6.9,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Odds of Israel Hezbollah war 'inevitable,' experts fear: 'Totally pessimistic'"
+14,86,5.214285714285714,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Power goes out on entire island of Cuba, leaving 10 million people without electricity"
+15,101,5.8,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Supreme Court rules in favor of Jan. 6 Capitol riot participant who challenged obstruction conviction
+15,101,5.8,0,2,0,0,1,1,0,0,1,0,1,0,0,0,1,FoxNews,"Georgia school shooting investigators zero in on 14 year old suspect’s internet history, past: expert"
+15,80,4.4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Give the gift of self care with these items from Dyson, Glossier, Hatch and more"
+11,86,6.909090909090909,0,2,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Kamala Harris' presidential campaign raises nearly $50 million since Biden endorsement
+16,89,4.625,0,2,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Air travel made better: 20 rules of airplane etiquette no one ever tells you (but should)
+9,68,6.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Arizona certifies abortion rights initiative for the November ballot
+16,95,5.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"As death toll mounts in Gaza, veterans of past negotiations weigh in on possibilities for peace"
+9,67,6.555555555555555,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,DOJ closes Pence classified documents investigation with no charges
+16,87,4.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Harris is trying to cut into Trump's edge on the economy. It could decide the election.
+15,86,4.8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Simon Cowell reveals how his son changed his judging style: ‘I have much more empathy’
+15,88,4.933333333333334,0,1,0,0,3,0,0,0,0,0,1,0,0,0,1,FoxNews,"Sandwich from New England, a most unusual treat, has fascinating story, plus 5 fun facts"
+15,78,4.266666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Putin praises Kim Jong Un's support for Ukraine war as he heads to North Korea
+13,74,4.769230769230769,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Sniper killed would be Trump assassin with 'one in a million shot': source
+10,62,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Dems on the left pressure Biden on Israel Palestinian conflict
+11,73,5.7272727272727275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Palestinians forced to flee Rafah as Gazans mark bitter Nakba anniversary
+12,79,5.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Middle class buyers are increasingly springing for homes they can barely afford
+13,82,5.384615384615385,0,4,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,2024 Cash Dash: Harris fundraising surge more than doubles Trump's haul last month
+10,75,6.6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Senate Republicans knife bipartisan border security bill, declaring it dead"
+13,74,4.769230769230769,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Korean skin care has been trending here's how to build the perfect routine
+9,46,4.222222222222222,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NBC,How to choose the best treadmill for your home
+10,68,5.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Helene rainfall boosted by human driven climate change, studies find"
+11,73,5.7272727272727275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Supreme Court stays out of fight over transgender student bathroom access
+14,81,4.857142857142857,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,'American Sports Story' re examines the rise and fall of NFL star Aaron Hernandez
+15,89,5.0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Rubio: 'Russia is already' in Cuba, the Diaz Canel regime 'lost its legitimacy to govern'"
+10,58,4.9,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,AI Newsletter: Creepy yet helpful robot is ready to assist
+11,80,6.363636363636363,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Travelers on TikTok are making grocery stores the hottest vacation 'destination'
+13,94,6.3076923076923075,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Acting Secret Service director pressed on Trump's potential appearance at Alabama Georgia game
+11,60,4.545454545454546,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Biden signs major climate, health care and tax bill into law"
+15,91,5.133333333333334,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,S.C. man sentenced to life in prison for murdering Black trans woman after historic verdict
+17,105,5.235294117647059,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Reporter 'visibly shaken' after CNN boss scolds him for being 'too emotional' in Trump town hall coverage
+14,71,4.142857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,We tried the Brooks Ghost Max for three weeks and have never run better
+12,60,4.083333333333333,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NBC,How an Elon Musk backed PAC is gathering data to boost Trump
+8,57,6.25,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'Best homemade' Thanksgiving turkey gravy: Try the recipe
+9,59,5.666666666666667,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,NBC,Map: How vulnerable is your neighborhood to excessive heat?
+7,54,6.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Thanksgiving casserole preferences vary state by state
+12,71,5.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Kamala rides tsunami of positive press, but skeptics see a risky choice"
+16,88,4.5625,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NBC,How votes get counted and reported on election night and how gathers and checks the data
+11,59,4.454545454545454,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,All the reasons why Trump's tax free tips plan is brilliant
+15,81,4.466666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,I tried Cuisinart’s toaster oven style air fryer for two weeks here’s how it went
+14,83,5.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Farmers 'brutalized' as costs 'go through the roof' in last days of Biden's America
+14,70,4.071428571428571,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,FoxNews,"Ask a doctor: ‘Why are my ears ringing, and should I see a physician?’"
+12,69,4.833333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Climate change is throwing the water cycle into chaos across the U.S.
+8,49,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Good Samaritan pulls Florida man from burning car
+16,103,5.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Lori Loughlin's husband Mossimo Giannulli asks to serve remainder of five month prison sentence at home
+15,104,6.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,FoxNews,"Florida bus carrying migrant farmworkers crashes, killing at least 8 and injuring dozens more: officials"
+13,86,5.6923076923076925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Washington Post has corrected over a dozen articles related to Steele dossier coverage
+12,74,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Harris calls Trump’s tariff proposals a ‘sales tax on the American people’
+13,88,5.846153846153846,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Nitro Circus' own Travis Pastrana discusses growth of motocross sports: 'Awesome to see'
+15,95,5.4,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Meet the American who taught the Tuskegee Airmen to fly, pioneer pilot Charles 'Chief' Anderson"
+10,71,6.2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Alabama seeks more nitrogen executions, despite concern over the method"
+16,92,4.8125,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"‘Euphoria’ star Sydney Sweeney on being a sex symbol, why she ‘won’t stop’ doing nude scenes"
+6,50,7.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Channel's top talent presidential debate reactions
+15,83,4.6,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Liberals gain control of the Wisconsin Supreme Court for the first time in 15 years
+18,104,4.833333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Children among dozens killed in strike on Gaza school that Israeli military says was being used by Hamas
+13,92,6.153846153846154,0,2,0,0,2,0,0,0,0,0,1,0,0,0,1,FoxNews,"David McCullough, American historian and Presidential Medal of Freedom recipient, dies at 89"
+12,77,5.5,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,FoxNews,What the NCAA's blockbuster admission says about the future of women's sports
+13,65,4.076923076923077,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"5 egg myths dispelled by an expert, plus tips for every egg lover"
+14,69,4.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Trump says he asked Sen. Katie Britt of Alabama to explain IVF to him
+12,86,6.25,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,McCarthy says Trump showing 'real leadership' to the world after assassination attempt
+12,85,6.166666666666667,0,2,0,0,0,1,0,0,1,0,1,0,0,0,0,NBC,Poll: 20 point deficit on handling economy highlights Biden’s struggles against Trump
+12,79,5.666666666666667,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Arizona abortion rights advocates pour $15 million into ballot measure ad blitz
+11,77,6.090909090909091,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Iowa school shooter showed 'warning signs' and 'copycat behavior,' police say"
+15,97,5.533333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Biden repeats false claim about trips to Iraq and Afghanistan, this time to graduating midshipmen"
+17,100,4.9411764705882355,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,U.S. warns Israel has no plan to eliminate Hamas as IDF battles regrouped militants in northern Gaza
+13,84,5.538461538461538,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Johnson's plan to avoid government shutdown goes down in flames as Republicans rebel
+10,59,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Republicans up the personal attacks on Biden and his family
+12,81,5.833333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Federal judge orders Trump assassination attempt suspect Routh not to be released
+10,65,5.6,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"The best women's sneakers for wide feet, according to podiatrists"
+15,91,5.133333333333334,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"A day after a once in a thousand year rainstorm, southern Appalachia faces Hurricane Helene"
+12,67,4.666666666666667,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"US Navy looks to robots, AI to extend vessel health and maintenance"
+15,93,5.266666666666667,0,3,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Jack Carr's take on the 9/11 terror attacks including 'hope' and the lessons from Afghanistan
+7,52,6.571428571428571,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,NYC police commissioner resigns amid nightclub probe
+19,98,4.2105263157894735,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Trump appears to leave door open for second debate with Harris: 'Maybe if I got in the right mood'
+9,49,4.555555555555555,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Do dogs actually need dental chews? We asked vets
+14,78,4.642857142857143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Trump team calls out Walz for ‘weird flex’ after veiled Vance reference at DNC
+16,100,5.3125,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Israel struck by long range missile from Yemen, 40 projectiles from Lebanon in early morning attacks"
+13,75,4.846153846153846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Cuban power plant failure leaves millions in the dark in island wide outage
+15,109,6.333333333333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Next presidential administration has to 'get serious' about immigration, say voters in key battleground state"
+19,105,4.578947368421052,1,4,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,RFK Jr. remains thorn in Biden's side as 2024 polls show Kennedy holding onto sizable chunk of Dem voters
+9,62,6.0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,NBC,'Black jobs'? Trump draws pushback after anti immigration rant
+11,76,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Florida Supreme Court hears arguments over an abortion rights ballot measure
+12,81,5.833333333333333,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Farmers sound alarm on Biden admin's agriculture policies: We're 'not doing well'
+15,100,5.733333333333333,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,3 workers remain hospitalized after collapse of closed bridge in rural Mississippi killed co workers
+16,76,3.8125,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Jan. 6 rioter who Tucker Carlson guest said was a fed is arrested by the FBI
+14,80,4.785714285714286,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,FoxNews,"After they leave the White House, what should America do with our ex presidents?"
+13,89,5.923076923076923,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,NBC,How the Florida judge overseeing Trump's trial could hobble the Justice Department's case
+14,78,4.642857142857143,0,6,0,0,3,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, February 12, 1809, Abraham Lincoln is born in Kentucky"
+13,95,6.384615384615385,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Trump applauds Catholic group's multi million anti Harris campaign appealing to Church faithful
+11,67,5.181818181818182,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Harris Trump debate nabs more than 67 million viewers, Nielsen says"
+14,88,5.357142857142857,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,DNC chair says majority of delegates have voted to give Harris the Democratic nomination
+13,77,5.0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,The 14 Amazon fitness accessories that will help you crush your workout goals
+18,98,4.5,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'I tell the truth': Trump says he'll testify at hush money trial as judge rejects last minute plea
+9,56,5.333333333333333,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Function or vibes? Have both with ’s favorite keyboards.
+13,108,7.384615384615385,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Rachel Morin murder: Maryland lawmaker confronts Mayorkas over 'failure' involving illegal immigrant suspect
+15,75,4.066666666666666,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Harris takes aim at Trump as she vows 'to be a president for all Americans'
+14,85,5.142857142857143,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Jon Stewart calls out Bernie Sanders, Bill Clinton and Democrats for hypocrisy at DNC"
+9,47,4.333333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,U.S. urges Israel to end large scale ground war
+19,109,4.7894736842105265,2,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Not Minnesota nice: GOP congressman playing Tim Walz in debate prep with JD Vance argues he's an 'empty suit'
+11,56,4.181818181818182,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,Playing out this Sunday: A tale of two QBs nobody wanted
+13,89,5.923076923076923,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,FoxNews,"Obama, stumping for Harris in key battleground, charges Trump 'will makes problems worse'"
+14,102,6.357142857142857,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"'Illegal, unconstitutional and void': Georgia judge strikes down new election rules after legal fights"
+8,54,5.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Trump meets with farmers at roundtable in Pennsylvania
+15,82,4.533333333333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Focus group reacts to Trump claim that migrants are 'eating the dogs' in Ohio town
+6,33,4.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Bob Dylan museum opening in Tulsa
+10,70,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Hamas wins Palestinian hearts as Gaza conflict threatens broader shift
+7,42,5.142857142857143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Jets acquire WR Davante Adams from Raiders
+13,99,6.6923076923076925,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,NRA accuses Meta of 'election interference' after labeling posts hitting Harris 'false information'
+15,109,6.333333333333333,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Walz appointee with apparent CCP ties could expose potential veep's national security weakness, lawmaker says"
+10,68,5.9,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"White House grilled on Harris' gun ownership, mandatory gun buybacks"
+12,70,4.916666666666667,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NBC,How a delivery service could actually help you save money on groceries
+13,88,5.846153846153846,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Benedict Arnold reexamined: How one of America's heroes became its most infamous traitor
+11,79,6.2727272727272725,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Inside the Christian TV show rallying Trump superfans with apocalyptic warnings
+12,63,4.333333333333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump says there will be a 'bloodbath' if he loses the election
+14,105,6.571428571428571,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Battleground state Dem distances himself from defund movement, but political record shows different story"
+12,89,6.5,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Conservative group unleashes 6 figure ad campaign targeting Biden's menthol cigarette ban
+13,66,4.153846153846154,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Spy on your dogs and cats while you're gone with these pet cameras
+13,82,5.384615384615385,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Bruce Willis, Demi Moore avoided doing one thing while co parenting, daughter says"
+8,47,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Italy makes it illegal to seek surrogacy abroad
+9,47,4.333333333333333,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Maine’s Paul LePage is back but has he changed?
+13,101,6.846153846153846,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Russia says Ukrainian intel chief responsible for Crimea bridge attack, increasing assassination risk"
+13,68,4.3076923076923075,0,2,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Harrison Ford’s 80th birthday: A look back at some of his best roles
+12,70,4.916666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Extreme heat in cities a growing problem as climate warms, study finds"
+18,108,5.055555555555555,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Ex Obama adviser warns ‘it’s very possible’ Trump would win election if held today, says reporters too cocky"
+14,104,6.5,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Columbia celebrates ‘alleged terrorists' with on campus memorial to ‘journalists’ killed in Gaza: report
+17,108,5.411764705882353,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Lori Loughlin released from prison after serving 2 months behind bars for role in college admissions scandal
+13,96,6.461538461538462,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,University of Virginia's student newspaper calls to removing Thomas Jefferson's name from campus
+15,77,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,A boy beat me in track and sexually harassed me. Biden thinks I’m the problem
+12,60,4.083333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Cool Amazon ice cube trays that will add fun to your freezer
+14,85,5.142857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Food at college gets high tech boost with first robotic kitchen in university setting
+12,88,6.416666666666667,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,IDF kills Hezbollah commander behind brutal attack on children's soccer field: officials
+14,93,5.714285714285714,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,OB GYNs decry the 'fearmongering' about Georgia's abortion laws: 'The lies are hurting women'
+11,67,5.181818181818182,0,4,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,Hillary Clinton blames women for 2016 election loss: 'They left me'
+14,84,5.071428571428571,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"India can’t find a Sikh separatist leader, but its manhunt has the world’s attention"
+16,106,5.6875,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Voter frustration with crime, liberal DAs mounting in California while Harris mum on controversial Prop 47"
+10,58,4.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Harris re energizes Black voters in key states, poll finds"
+11,72,5.636363636363637,2,2,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Chicago restaurant serving 'most expensive martini in US' priced at $13K
+14,82,4.928571428571429,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"In an election year, Americans need fewer hot takes and more cool headed reasoning"
+11,76,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Harris campaign celebrates after Georgia judge blocks hand count ballot rule
+18,115,5.444444444444445,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,NBC,"Wedge pillows, mouthpieces, nasal strips these are the ones that actually work to end snoring, according to experts"
+13,68,4.3076923076923075,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,NBC,"'Living through a war': In Cuba, a race to vaccinate as Covid surges"
+15,85,4.733333333333333,0,2,0,0,1,1,0,1,1,0,1,0,0,0,1,FoxNews,"North Carolina woman eats nothing but sardines, loses 35 pounds: 'This is not a diet'"
+16,100,5.3125,0,0,0,0,2,1,0,1,1,0,0,0,0,0,1,FoxNews,"Biden 'doesn't understand the Catholic faith,' bishop says: 'I'm not angry at him, he's just stupid'"
+15,89,5.0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Inflation and abortion lead the list of voter concerns, edging out crime, Exit Poll finds"
+21,118,4.666666666666667,0,2,0,0,2,0,0,0,0,0,1,0,0,0,0,NBC,"We took over 30 duffels, backpacks and weekenders on planes, trains and more for our Travel Awards. These are the best"
+14,78,4.642857142857143,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"At a private donor retreat, Trump team says Minnesota and Virginia are in play"
+15,89,5.0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Best foods to eat for radiant, ageless skin and what to avoid, according to nutritionists"
+12,78,5.583333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Environmental activism has a racial blind spot. The science shows the fallout.
+16,98,5.1875,0,6,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Kamala Harris guarantees reelection in 2024 after asked why Biden's not '30 points ahead' of Trump
+16,88,4.5625,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Weeks of protests that have 'shaken' Iran since one woman's death show no sign of fading
+15,81,4.466666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Biden speaks with Netanyahu as tensions over the Israel Hamas war mount in the US
+15,103,5.933333333333334,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Exclusive: Bestselling author Jack Carr shares excerpt from 'Beirut,' his new nonfiction book on terror"
+11,67,5.181818181818182,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Second officer from Capitol riot dies by suicide, police chief says"
+15,103,5.933333333333334,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Antisemitic incidents across Europe, Canada hit record levels 5 months after Hamas massacre of Israelis"
+13,89,5.923076923076923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Biden admin eyes more deportation flights to Venezuela as migrant numbers shatter records
+19,103,4.473684210526316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Jelly Roll ‘had a lot of time’ to write songs in prison before finding massive success in country music
+15,102,5.866666666666666,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'Total bulls ': Trump campaign rips 'preposterous' Harris pro border wall narrative after media report
+12,71,5.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Harris campaign ramps up 'unhinged, unstable' attack on Trump in new ad"
+10,72,6.3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Buttigieg faces grilling on Harris’ immigration record: ‘Let’s get real’
+10,69,6.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Accused Idaho college killer Bryan Kohberger's trial date pushed back
+15,101,5.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,NBC,"What to know about Bluesky, the Twitter alternative that some celebrities and journalists are joining"
+16,94,4.9375,1,4,0,0,0,1,1,0,1,0,1,0,0,0,0,NBC,Election 2024: Harris goes on high profile media blitz; Trump postpones town hall with RFK Jr.
+13,86,5.6923076923076925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Israeli swimmer Anastasia Gorbenko booed at Worlds in Qatar after winning silver medal
+10,65,5.6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Power Rankings: Three governor’s races to watch on election night
+16,101,5.375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Tensions simmer in Jerusalem after Israel responds to rocket attacks with strikes on targets in Syria
+12,62,4.25,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Trump has 9 point lead on most important issue to voters: poll
+12,76,5.416666666666667,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Israel’s hunt for Hamas terror group leader Yahya Sinwar: 'Dead man walking'
+16,85,4.375,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Trump fan who assaulted officers with a hockey stick on Jan. 6 is sentenced to prison
+10,56,4.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,J Hope from BTS finishes military service in South Korea
+12,60,4.083333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Set any mood at any time with these full color smart lights.
+6,30,4.166666666666667,0,2,0,0,0,1,0,0,1,0,1,0,0,0,0,NBC,The Latino 10: A standout year
+12,81,5.833333333333333,0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,NBC,"Will protesters, or police, be the problem at the Democratic National Convention?"
+14,85,5.142857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Biden admin issues warning to Netanyahu as Israel holds emergency meeting on Gaza aid
+16,94,4.9375,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,These are the best portable washing machines for small space living and they’re all under $500
+12,66,4.583333333333333,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"India hands PM Modi a surprise setback, with his majority in doubt"
+7,49,6.142857142857143,0,2,0,0,2,0,0,0,0,0,1,0,0,0,1,FoxNews,"Barbara Walters, journalistic pioneer, dead at 93"
+19,110,4.842105263157895,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Texas congressman becomes first elected Dem to call on Biden to withdraw from election: 'Too much is at stake'
+11,83,6.636363636363637,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Chuck Schumer calls for new elections in Israel, criticizing Netanyahu's leadership"
+12,71,5.0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Gun groups slam Biden admin over new ATF rule: 'Weaponizing every tool'
+7,40,4.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Death toll rises as Israel battles Hamas
+13,104,7.076923076923077,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Pennsylvania State Police identify victims shot during attempted assassination of former President Trump
+12,58,3.9166666666666665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Amazon’s fall Prime Day sale is here what you need to know
+13,71,4.538461538461538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,There is no trial date in sight for the Trump classified documents case
+18,106,4.944444444444445,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Top Democrat urges Biden admin to do more to help local election officials fight a flood of disinformation
+14,86,5.214285714285714,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Sen Bob Menendez may blame his wife Nadine during federal corruption trial: court docs
+16,94,4.9375,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,PGA of America director defends record high Ryder Cup prices at Bethpage Black: 'Tier 1 event'
+15,82,4.533333333333333,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,FoxNews,Considering a cruise? High seas may be the right option for both family and wallet
+12,84,6.083333333333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump suggests 'injection' of disinfectant to beat coronavirus and 'clean' the lungs
+6,39,5.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Israel withdrawing some units from Gaza
+15,83,4.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Appeals court rejects Mark Meadows’ bid to move his Georgia case out of state court
+13,97,6.538461538461538,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Heat waves hitting U.S. and Europe 'virtually impossible' without climate change, researchers say"
+9,67,6.555555555555555,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Potential Al Qaeda resurgence in Afghanistan worries U.S. officials
+13,81,5.3076923076923075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Biden officials fret that Israeli response to Iran’s attack may trigger wider war
+13,87,5.769230769230769,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Ozzy Osbourne cancels all tour dates amid 'life altering' injury, several health scares"
+16,90,4.6875,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Jan. 6 rioter who attacked cops lashes out at Trump appointed judge after 12 year sentence
+15,95,5.4,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,3rd strike 'trans' rape suspect prompts rebellion against CA law after attack in women's prison
+16,89,4.625,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"GOP sens call on Schumer, Dems to take up border bills as they tout immigration vigilance"
+6,29,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Get these apps off your phone
+18,105,4.888888888888889,0,5,0,0,3,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, January 8, 1790, George Washington delivers first ever State of the Union address"
+14,86,5.214285714285714,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"‘Morning Joe’ hosts, staff shocked after being only MSNBC show Monday replaced by feed"
+13,93,6.230769230769231,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Army investigating whether detained U.S. soldier was lured to Russia by intelligence services
+12,77,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Supreme Court to weigh state restrictions on gender affirming care for youths
+20,99,4.0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Have your cup and eat it, too: Coffee shop introduces edible cups in an effort to cut down on waste"
+13,74,4.769230769230769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Hostage rescue brings hope and fear for families of captives still in Gaza
+13,80,5.230769230769231,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Josh Radnor talks shedding 'How I Met Your Mother' character, creating new music"
+15,79,4.333333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"You should be cleaning your mattress, not just your sheets. Here’s how to do it"
+11,67,5.181818181818182,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Kristen Cavallari and Jay Cutler to divorce after 10 years together
+13,75,4.846153846153846,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Top adviser to left wing California DA charged with nearly a dozen felonies
+13,77,5.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump vows to 'stop' gender affirming care for minors if re elected president
+9,74,7.333333333333333,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"UN ambassador criticizes Israeli military, calls for 'fundamental changes'"
+14,82,4.928571428571429,0,8,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Four people plead guilty in North Carolina ballot probe of 2016 and 2018 elections
+12,74,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Shop these brands to get your caffeine fix and support Black entrepreneurs
+15,79,4.333333333333333,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,Harris makes gains in Latino voter support but many are still in play: new poll
+11,77,6.090909090909091,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"China reports third quarter GDP growth of 4.6%, slightly beating expectations"
+14,76,4.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Combat veteran and his wife help others fight PTSD and find healing and hope
+11,77,6.090909090909091,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Garlic: Planting, roasting and understanding the health benefits of the plant"
+12,81,5.833333333333333,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Becerra: Federal gov 'looking into' helping women cross state lines for abortions
+16,77,3.875,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,Trump once called Jan. 6 a 'heinous attack.' Now he calls it a 'day of love.'
+15,106,6.133333333333334,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Hurricane Helene flooding in NC stirs yellow jacket swarms, prompting distribution of Benadryl and EpiPens"
+12,94,6.916666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Influencers and popular podcasts fuel election disinformation among Black voters, report shows"
+16,104,5.5625,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,Live updates: Netanyahu orders 'full force' in Lebanon despite U.S. push for Israel Hezbollah cease fire
+13,84,5.538461538461538,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Harris courts male voters on fantasy sports, sports betting and video game platforms"
+16,85,4.375,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,NBC,"Dozens of Egyptian pyramids, some in Giza, sat along a branch of the Nile, study says"
+14,109,6.857142857142857,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Prosecutors in Delphi murders case call pagan cult ritual narrative 'colorful, dramatic' and 'unprofessional'"
+12,69,4.833333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Kamala Harris and her two socialist proposals to crush the US economy
+14,87,5.285714285714286,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Billy Joel unveils 50 pound weight loss at Madison Square Garden following back surgery
+9,60,5.777777777777778,0,4,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Trump, Biden face tests in final 2024 presidential primaries"
+14,94,5.785714285714286,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Nevada gov backs women's volleyball players refusing to compete against team with trans player
+16,107,5.75,1,4,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Trump official Jeffrey Clark likely violated ethics rules with 2020 election theories, D.C. Bar panel finds"
+17,97,4.764705882352941,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"CNN changes: From Chris Cuomo to Brian Stelter, it’s been a wild year for scandal plagued network"
+15,72,3.8666666666666667,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,NBC,How often should you bathe your dog? There are 3 factors to keep in mind
+12,71,5.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,You’ll laugh at who MSNBC brought to whine about Trump’s alleged affair
+13,83,5.461538461538462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Sydney Sweeney shows off famous curves as she prepares to play groundbreaking boxer
+15,80,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Simon Cowell reveals why he turned down an opportunity to have his own talk show
+8,70,7.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Vanessa Hudgens continues #ThirstyThursday tradition with sultry snaps
+15,87,4.866666666666666,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Boyd Jr.: America is divided on 'bitterness' and 'hatred' when we need to come together
+10,53,4.4,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"30 best gifts ideas for your sister, for any occasion"
+11,62,4.7272727272727275,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Guilty but unashamed, Trump says he will see Biden in November"
+15,88,4.933333333333334,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Misleading GOP videos of Biden are going viral. The fact checks have trouble keeping up.
+18,100,4.611111111111111,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Joe Rogan warns Kamala Harris will win because people are 'giving into the bulls ' like never before
+11,71,5.545454545454546,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Ex Indian government agent plotted assassination on U.S. soil, DOJ says"
+12,73,5.166666666666667,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Demi Moore on isolating with ex Bruce Willis, daughters: 'It was amazing'"
+11,72,5.636363636363637,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,Top 5 moments during Trump Harris presidential debate: 'I'm talking now'
+11,70,5.454545454545454,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Israel Hamas war protests have disrupted Pride marches across the U.S.
+14,79,4.714285714285714,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Harris is rolling out her agenda. She'll need a Democratic Congress to pass it.
+11,61,4.636363636363637,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Earbuds or ear cuffs? These new headphones from Bose are both
+12,73,5.166666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,New Jersey governor appoints former aide to fill Sen. Bob Menendez's seat
+18,108,5.055555555555555,3,0,0,0,2,1,0,1,1,0,0,0,0,0,1,FoxNews,"NYT, MSNBC, PBS journalists pressed on how they covered Biden's age: We probably need to do 'soul searching'"
+9,55,5.222222222222222,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,President Joe Biden drops out of 2024 presidential race
+13,83,5.461538461538462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Israeli military analysts flagged Hamas plans to ‘start a war’ before terror attack
+19,106,4.631578947368421,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,CNN political director warns of 'trouble sign for Harris' as she lags with White male voters in key states
+13,70,4.461538461538462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Elaine Chao issues rare rebuke of Trump over his racist attacks on her
+9,59,5.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Andy Beshear draws rebuke from Vance over abortion comments
+13,76,4.923076923076923,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Supreme Court agrees to hear Jan. 6 case that could affect Trump prosecution
+16,94,4.9375,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Harris campaign refuses to sign off on muted mic debate rules: Still 'in discussions' with ABC
+12,77,5.5,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Trump supporter charged with firing gun during Jan. 6 attack ordered detained
+13,87,5.769230769230769,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Department of Homeland Security shuts down disinformation board that drew fire from GOP
+14,76,4.5,0,1,0,0,2,1,0,0,1,0,1,0,0,0,1,FoxNews,"Autumn in New England: 6 states pack big color, major history, in small area"
+19,92,3.8947368421052633,0,4,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Biden ends bid for second term in White House as he drops out of his 2024 rematch with Trump
+15,96,5.466666666666667,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Young swing state voters deliver advice for Kamala Harris: 'There needs to be more transparency'
+11,60,4.545454545454546,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Israel Hamas cease fire close to the goal line, Blinken says"
+10,67,5.8,1,2,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,G20 summit showcases India's global clout and press freedom worries
+14,84,5.071428571428571,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'Witness to Dignity': What I experienced at Barbara Bush's bedside in her final days
+14,76,4.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"With Harris and Walz, Democrats put abortion rights at the top of the agenda"
+17,99,4.882352941176471,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Biden shrugs off age concerns during friendly Seth Meyers chat: 'It's about how old your ideas are'
+15,99,5.666666666666667,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,FoxNews,Biden replacement? Illinois Gov. Pritzker keeping options open as some Democrats look for new blood
+8,42,4.375,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,20 best Father's Day fishing gifts for dad
+14,83,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,Battle of the billionaires: Harris deploys Mark Cuban as Elon Musk stumps for Trump
+12,79,5.666666666666667,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Pro China influence campaign pushed talking points across more than 50 websites
+15,94,5.333333333333333,0,7,0,0,1,1,0,1,1,0,1,0,0,0,0,NBC,"2024 Olympics: Simone Biles takes gold in vault, Sha'Carri Richardson gets silver in 100 meter"
+15,99,5.666666666666667,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Texas mom, luxury real estate agent missing after party at exclusive private club, husband arrested"
+11,77,6.090909090909091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Hezbollah launches barrage of rockets at Israel after senior commander killed
+18,108,5.055555555555555,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,NBC,How some of the internet's most popular pro Trump pundits ended up as paid messengers for Russian propaganda
+19,102,4.421052631578948,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Free ice cream scoop promised to kids if they recite the Pledge of Allegiance by heart: 'A no brainer'
+12,69,4.833333333333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Intense phase of Israel's war with Hamas about to end, Netanyahu says"
+13,81,5.3076923076923075,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Dem lawmakers' voting records with Biden Harris in spotlight ahead of tight races
+16,87,4.5,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Mystery food bags bought at Whole Foods on deep discount go TikTok viral: 'Hit or miss'
+10,63,5.4,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"The 7 best mattresses for back pain, according to chiropractors"
+12,76,5.416666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Senate votes to overturn Biden eco regulation, teeing up another likely veto"
+12,78,5.583333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,The best acne scar treatments that dermatologists say actually fade dark spots
+17,90,4.352941176470588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Kim Jong Un brings daughter on tour of North Korea in his first public appearance in weeks
+9,52,4.888888888888889,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Harris' new ad hits Trump's age in criticizing Vance
+17,99,4.882352941176471,1,5,0,0,2,0,0,1,0,0,1,0,0,0,1,FoxNews,"WWII vet, 101, 'finally' walks at graduation 80 years after having to miss ceremony amid global war"
+14,83,5.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Harrison Ford mocks Conan O’Brien after 'Star Wars' dis: ‘You can't f ing remember'
+14,79,4.714285714285714,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NBC,Why Pilates is one of the best low impact workouts for strength and flexibility
+14,89,5.428571428571429,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"McConnell privately called Trump a 'despicable human' and unfit for office, new book says"
+12,88,6.416666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Israel declares war after Hamas surprise attack, launches retaliatory airstrikes in Gaza"
+12,78,5.583333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Witness saw Trump assassination suspect flee bushes, took photo of getaway car"
+10,68,5.9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,Live updates: Police officers give firsthand account of Capitol riot
+16,106,5.6875,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,FoxNews,Arizona Kamala Harris rally speakers court 'John McCain Republicans' support; man brings border map for VP
+13,86,5.6923076923076925,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,NBC,"Poll: Newly popular Harris builds momentum, challenging Trump for the mantle of change"
+17,101,5.0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"House passes $1.7 trillion spending bill that rewrites U.S. election law, sending it to Biden to sign"
+16,106,5.6875,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"'Euphoria's' Sydney Sweeney faces heat for mom's party featuring MAGA like hats, 'Blue Lives Matter' shirt"
+16,79,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Key mediator Qatar urges Israel and Hamas to do more to reach a cease fire deal
+14,92,5.642857142857143,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'I've never seen this': Top Republican details level of Secret Service 'lack of cooperation'
+12,70,4.916666666666667,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,The 19+ best (and unexpected) last minute Father’s Day gifts on Amazon
+14,97,6.0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Diabetes affects millions of Americans and hits Hispanic, Latino adults especially hard, CDC says"
+12,75,5.333333333333333,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,31 top rated Amazon products guaranteed to declutter and organize your home
+14,84,5.071428571428571,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Biden admin bucks climate activists, holds enormous Trump era oil and gas lease sale"
+9,49,4.555555555555555,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,U.S. and China take cautious steps to repair ties
+13,107,7.3076923076923075,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,FoxNews,"Bruce Willis is relatively 'incommunicative,' 'not totally verbal' after dementia diagnosis, friend reveals"
+15,97,5.533333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,VP Harris ripped by victim of illegal immigrant released under her program over resurfaced speech
+13,87,5.769230769230769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Justice Ketanji Brown Jackson asks tough questions in first Supreme Court oral argument
+10,53,4.4,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,NBC,How often should you wash your hair? Experts weigh in
+14,97,6.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Fireworks expected in final Pennsylvania Senate debate in race that may decide chamber's majority
+11,75,5.909090909090909,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Candy tours of America: 5 delectable destinations for sweet family memories
+15,93,5.266666666666667,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Anti Israel demonstrations continue near DNC for 3rd night as crowds gather in larger numbers
+17,97,4.764705882352941,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Dak Prescott gets engaged with help from seven month old daughter: 'Daddy has a question for you'
+11,64,4.909090909090909,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Personalized Father's Day gifts for dad from Apple, JBL and more"
+13,74,4.769230769230769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Cease fire talks advance in Egypt even as Israel threatens to invade Rafah
+12,71,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Obamas to hit the campaign trail in first joint appearances with Harris
+14,94,5.785714285714286,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Taylor Swift, Travis Kelce get support from family after surprise 'Eras Tour' stage appearance"
+12,70,4.916666666666667,0,6,0,0,1,0,0,1,0,0,1,0,0,0,0,NBC,"More than 337,000 people visit Taylor Swift's link to register to vote"
+18,99,4.555555555555555,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,From a D.C. studio to an indictment: How a Russia funded media outlet seeded propaganda in the U.S.
+13,65,4.076923076923077,0,2,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Dementia advice: Here are 16 safe things to say to your loved one
+18,103,4.777777777777778,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Perp walk: New Yorkers shout at suspect in fatal shooting of NYPD police officer, who now faces charges"
+11,60,4.545454545454546,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Defeat in Ohio’s abortion proxy war another red flag for GOP
+12,75,5.333333333333333,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,39+ travel essentials on Amazon guaranteed to make your trip less stressful
+13,65,4.076923076923077,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Elon Musk has given nearly $75 million to his pro Trump super PAC
+17,104,5.176470588235294,0,6,0,0,3,0,0,1,0,0,1,0,0,0,1,FoxNews,"Ahead of Sept. 11, 2023, Washington pastor urges, 'Remember our loved ones' and 'find peace and purpose'"
+14,81,4.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,South Korea spy agency says Kim Jong Un’s daughter is likely heir to dictatorship
+16,98,5.1875,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Biden has been secretly meeting with donors to ease concerns, including his age and energy: report"
+11,65,5.0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,Ron DeSantis quietly signs Florida's 6 week abortion ban into law
+12,75,5.333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Meet the Hurricane Milton babies born at Florida hospitals during the storm
+13,99,6.6923076923076925,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Trump assassination attempt: Why Florida prosecutor says ‘insanity’ defense won’t stick for suspect
+16,95,5.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Trump Harris race neck and neck nationally in new survey, pollster sees 'warning sign' for Dems"
+9,60,5.777777777777778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Trump pleads not guilty in federal classified documents case
+12,83,6.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Media proposes second Harris Trump debate moderated by Martha MacCallum, Bret Baier"
+12,79,5.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Opinion The real reason the cycle of Israeli Palestinian violence started again
+19,98,4.2105263157894735,2,5,0,0,4,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, April 1, 1945, US forces invade Okinawa, last major battle of World War II"
+10,86,7.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Elite university journalism professor exposed for monthslong campaign justifying Hamas
+17,107,5.352941176470588,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Oprah Winfrey makes surprise DNC appearance to rail against man she once considered running for office with
+14,92,5.642857142857143,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Aurora police react to alleged Venezuelan gang presence at apartments: 'Have not taken over'
+11,53,3.909090909090909,0,3,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,8 rock stars who are rockin' their way into their 80s
+14,87,5.285714285714286,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Ryan Routh's 'poor man's surveillance' enough to scout out spot to target Trump: expert
+14,94,5.785714285714286,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Nicholas Sparks' chicken salad recipe leaves fans upset over secret ingredient: 'Gone too far'
+13,71,4.538461538461538,2,1,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,FBI raids 2 homes owned by NYC Mayor Eric Adams' Asian Affairs director
+17,104,5.176470588235294,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Riley Gaines gets emotional reading remarks to lawmakers, says they have chance to send message to women"
+14,92,5.642857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Big Tech companies reveal trust and safety cuts in disclosures to Senate Judiciary Committee
+19,101,4.368421052631579,0,5,0,0,3,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, Sept. 8, 1565, St. Augustine oldest city in North America is settled by Spain"
+15,98,5.6,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,CIA official: Predictions about Afghanistan becoming a terror launching pad 'did not come to pass'
+13,87,5.769230769230769,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Bill Maher hypes Taylor Swift's endorsement of Kamala Harris: She has 'saved democracy'
+16,95,5.0,0,6,0,0,2,1,0,0,1,0,1,0,0,0,1,FoxNews,"Over 5,700 children in 5 year period had gender surgeries, most from 5 liberal states: watchdog"
+12,74,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Search for missing Texas mom Suzanne Simpson leads to San Antonio landfill
+7,48,6.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Fact checking Trump's 'Meet the Press' interview
+8,60,6.625,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,FoxNews,"Elon Musk unveils Tesla's Robovan, Robotaxi, humanoid robots"
+9,53,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,A deadly detour: Migrant deaths spike outside El Paso
+9,64,6.222222222222222,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Jews ‘under siege’ in Trudeau's Canada amid soaring antisemitism
+11,65,5.0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Banned political ads found on TikTok weeks ahead of 2024 election
+13,77,5.0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Proud Boy who smashed Capitol window with police shield sentenced to 10 years
+12,69,4.833333333333333,0,5,0,0,1,0,0,0,0,0,1,1,0,0,0,NBC,"How to shop for the 75,000 Climate Pledge Friendly products on Amazon"
+17,90,4.352941176470588,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,NBC,Which has better deals: Black Friday or Cyber Monday? Here’s when to shop to save the most
+8,69,7.75,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Alleged 'Baby Reindeer' inspiration sues Netflix, claiming defamation"
+16,106,5.6875,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Book shows alleged Biden Harris divide surfaced earlier than previous president VP rifts, some critics say"
+14,86,5.214285714285714,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Meet the American who founded the Grand Ole Opry: 'Remarkable visionary' George D. Hay
+17,103,5.117647058823529,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Balance of power: Trump campaign slams Sen Tester as 'radically out of touch' after abortion ad rollout
+18,107,5.0,0,6,0,0,4,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, December 15, 1791, Bill of Rights ratified, codifying unique freedoms in new nation"
+19,107,4.684210526315789,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Parents speak out after daughter assigned to share bed with trans student on school trip: 'Told to hide it'
+11,70,5.454545454545454,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Everything you need to start playing pickleball, according to the pros"
+15,98,5.6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Federal appeals court upholds but narrows the gag order in Trump's D.C. election interference case
+14,84,5.071428571428571,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,New poll reveals voters' thoughts on Kamala Harris if Biden can't finish second term
+14,89,5.428571428571429,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Abortion rights groups lash out at leaked Supreme Court draft: 'Confirms our worst fears'
+18,110,5.166666666666667,0,2,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Family that lost 11 in Hurricane Helene mudslides says community sacrificed 'life and limb' to save each other
+10,62,5.3,0,4,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Trans inclusion in women's sports becomes hotter topic in 2023
+13,87,5.769230769230769,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,2 Russian intel officers charged with hacking into U.S. and British government agencies
+10,74,6.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Kamala Harris, Donald Trump wrap first presidential debate in Philadelphia"
+19,114,5.052631578947368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Judge in Trump Georgia case sets hearing on accusations of misconduct by prosecutors as Fani Willis goes on attack
+17,103,5.117647058823529,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Would be Trump assassin had explosives in car parked near rally, bomb making materials at home: sources"
+13,79,5.153846153846154,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,D.C. chiropractor who 'scuffled' with officers on Jan. 6 is sentenced to prison
+11,76,6.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,FoxNews,"Explosion rocks Kerch Bridge connecting Russia and Crimea, 3 dead: officials"
+12,85,6.166666666666667,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Brutal Hamas 'Shadow Unit' likely behind hostage raids poses rescue nightmare: expert
+14,86,5.214285714285714,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Oklahoma City outlaw biker boss jumped, killed nearly year to day after Texas gunfight"
+7,53,6.714285714285714,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Power Rankings: Trump leads a dissatisfied electorate
+10,71,6.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Meta admits 'error' in taking down conservative college's Facebook page
+19,108,4.7368421052631575,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Swing state GOP chair slams Biden Harris admin for being out of touch on key issue: 'Abandoned this country'
+14,81,4.857142857142857,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,CDC urges proper cooking of wild game after family sickened by bear meat parasite
+13,88,5.846153846153846,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,'So evil' and 'dangerous': Trump doubles down on calling Democrats 'enemies from within'
+10,56,4.7,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,War in Israel tests Biden's foreign policy case for 2024
+15,93,5.266666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Taylor Swift will release 'The Eras Tour' concert film to streaming to celebrate her birthday
+12,78,5.583333333333333,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Trump launches GoFundMe to help Hurricane Helene victims, raises more than $1M"
+14,98,6.071428571428571,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Biden's latest border order may embolden migrants to flout immigration laws, commit marriage fraud"
+18,95,4.333333333333333,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Biden says the election will be 'free and fair,' but 'I don't know whether it will be peaceful'"
+14,88,5.357142857142857,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,White House says Israel's Rafah strike and ground assault don't cross Biden's 'red line'
+14,79,4.714285714285714,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,Long Island funeral home owner arrested two years after Jan. 6 sleuths ID'd him
+18,110,5.166666666666667,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Ozzy Osbourne's fourth spinal surgery will be his 'final' one 'regardless' of outcome: 'I can't do it anymore'
+14,92,5.642857142857143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Biden to visit North Carolina days after Helene's path of destruction leaves many devastated
+11,83,6.636363636363637,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,'Woke' California prosecutor 'ironically in charge of ethics' charged with felonies
+11,75,5.909090909090909,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Nashville school shooting should be investigated as hate crime, Hawley says"
+18,106,4.944444444444445,0,6,0,0,4,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, August 15, 1935, entertainer Will Rogers, aviator Wiley Post killed in plane crash"
+17,103,5.117647058823529,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Meeting with Zelenskyy, Trump says he will negotiate a Ukraine Russia deal 'that's good for both sides'"
+13,91,6.076923076923077,0,4,0,0,2,0,0,0,0,0,1,0,0,0,1,FoxNews,"Trump outperforming 2020 support among Hispanics, who prefer him on immigration, poll shows"
+13,83,5.461538461538462,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Alert St. Louis hotel staff helps save kidnapped Florida women from captors: report
+9,67,6.555555555555555,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,President Biden publicly acknowledges 7th grandchild for first time
+13,70,4.461538461538462,1,3,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,A new 'extreme heat belt' with 125 degree temps could cut through U.S.
+13,81,5.3076923076923075,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Stormy Daniels must pay $300k to Donald Trump after losing defamation case appeal
+12,80,5.75,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Top senators briefed on 'major errors' leading up to Trump assassination attempt
+11,73,5.7272727272727275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Cuba announces tough economic measures as Cubans brace for more hardship.
+13,88,5.846153846153846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Laken Riley amendment at center of Senate standoff in partial government shutdown battle
+11,60,4.545454545454546,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Cool your space for less with these portable ACs under $400.
+14,92,5.642857142857143,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Democrats intensify their IVF messaging in new billboards, tying Trump to the Alabama ruling"
+14,86,5.214285714285714,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,NJ police eye absent parents after young mobs upend family friendly vacation hot spots
+17,98,4.823529411764706,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Travelers will need 'permission' and a fee to visit United Kingdom as part of new digitized system
+10,64,5.5,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,D.C. chiropractor who stormed Capitol arrested on Jan. 6 charges
+14,83,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,South Korean intelligence says North has sent troops to aid Russia’s war in Ukraine
+18,104,4.833333333333333,1,6,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Liberal dark money network hauled in more than $1.5B in anonymous donations for left wing causes in 2021
+15,90,5.066666666666666,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"WATCH: Body camera footage of migrant accused in murder, rape of Maryland mom Rachel Morin"
+7,50,6.285714285714286,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,NBC,"Biden, Trump win New Hampshire primary: Highlights"
+16,100,5.3125,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,Jan. 6 rioter who electroshocked Michael Fanone shouts 'Trump won' after he's sentenced to 12½ years
+9,64,6.222222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Harris accepts invitation for second potential debate in October
+10,61,5.2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Israel, Bahrain, UAE sign Trump brokered deals at White House"
+15,85,4.733333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Harris campaign seizes on suburban women as a key part of its North Carolina strategy
+13,81,5.3076923076923075,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,NBC,"Schiff's powerful closing speech: 'Is there one among you who will say, Enough!'?"
+12,82,5.916666666666667,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Trump previews closing arguments in 'sham trial': 'Very dangerous day for America'
+16,91,4.75,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Creamy Cajun shrimp scampi over pasta is a flavor packed, cheesy dream: Try the easy recipe"
+10,63,5.4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,6 key takeaways from the first Harris Trump presidential debate
+12,81,5.833333333333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Mark Meadows, Rudy Giuliani and Arizona 'fake electors' charged with state crimes"
+15,94,5.333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,This is the one gardening tool beginners always underestimate but you really shouldn’t skip it
+13,81,5.3076923076923075,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,DOJ seeks longer sentence for Capitol rioter they labeled as a domestic terrorist
+15,68,3.6,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,NBC,Mark Cuban says he has 'no plans to run' for the White House in 2024
+11,63,4.818181818181818,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,NBC,"How to sanitize your phone and other tech, according to doctors"
+15,98,5.6,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Five ways Ronald Reagan can save America: 'Freedom never more than one generation from extinction'
+14,98,6.071428571428571,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Thousands of anti Israel protesters descend on White House praising Hamas, slamming 'genocide Joe'"
+15,94,5.333333333333333,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Biden called out on border crisis by Texas Democrat: 'Absolutely the president should be here'
+11,70,5.454545454545454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Health officials call for flu shots ahead of potentially severe season
+11,62,4.7272727272727275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Harris may have locked down her first electoral vote this week
+15,101,5.8,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"CNN's Brian Stelter gushed over Cuomo's COVID 'leadership': 'He's providing hope, but not false hope'"
+11,75,5.909090909090909,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Tren de Aragua gang member, illegal Venezuelan migrant, arrested in Houston"
+12,80,5.75,0,4,0,0,0,1,1,0,1,0,1,0,0,0,0,NBC,Election 2024: Trump campaigns in Georgia; Harris weighs trip to southern border
+11,64,4.909090909090909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Noa Argamani became the face of the Nova music festival hostages
+16,109,5.875,0,0,0,1,0,1,0,1,1,1,0,0,0,0,1,FoxNews,Former Bernie Sanders staffer torches his Biden endorsement and warns of Trump's appeal: 'Where've you been?'
+15,86,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Victims of Hamas attack in Israel and their families blame Iran in new federal lawsuit
+14,93,5.714285714285714,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,From 'rapists' to 'eating the pets': Trump has long used degrading language toward immigrants
+9,45,4.111111111111111,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Dry hair? Here’s how often you should wash it
+16,95,5.0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Political storm: On Trump 'onslaught of lies,' Biden urges former president to 'get a life man'"
+12,73,5.166666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Three Harris DNC attack lines against Trump that were inaccurate or false
+11,74,5.818181818181818,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Demi Moore addresses Bruce Willis' dementia battle: 'He's doing very well'
+9,56,5.333333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NBC,What the U.S. recognizing a Palestinian state would mean
+11,76,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Heat waves overlap as warming climate makes extreme temperatures more likely
+12,81,5.833333333333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Collapsed Lafayette Square narrative is yet another 'fact checked' story gone bad
+12,81,5.833333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Christian baker faces new lawsuit over gender transition cake after Supreme Court
+8,51,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Tampa man survives Hurricane Milton in his sailboat
+15,98,5.6,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Rubio contests claim that US embargo is destabilizing Cuba, says only 'blockade' is its government"
+8,50,5.375,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Early voting begins in Nebraska and Washington, DC"
+13,76,4.923076923076923,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"Trump rages at Bolton, says former adviser would have caused 'World War Six'"
+9,71,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Former host Tucker Carlson interviewed Russian President Vladimir Putin
+13,91,6.076923076923077,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,‘The enemy from within’: Trump calls Democrats more dangerous than U.S. foreign adversaries
+12,79,5.666666666666667,0,4,0,0,0,1,0,1,1,0,1,0,0,0,0,NBC,'Damning non answer': Vance refuses to acknowledge Trump lost the 2020 election
+17,104,5.176470588235294,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Champion cyclist says she would serve in IDF right now amid removal from International Women's Day event
+14,91,5.571428571428571,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Meet the American who gave the nation our Thanksgiving origin story: Pilgrim Edward Winslow
+8,63,7.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Palestinians reel from repeated strikes on 'humanitarian zones'
+16,94,4.9375,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Lexi Thompson reflects on 'emotional week' playing for USA for likely last time at Solheim Cup
+8,45,4.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Find out how water resistant your devices are
+12,73,5.166666666666667,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,A forced exodus from Gaza to Egypt? Israeli ‘concept paper’ fuels outrage
+10,66,5.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Misinformation about Israel and Hamas is spreading on social media
+13,68,4.3076923076923075,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Google just released its list of 100 of the top trending gift ideas.
+13,72,4.615384615384615,1,4,0,0,0,0,0,1,0,0,1,0,0,0,1,FoxNews,Swing state voters tell NYT why they're ditching Biden for Trump in 2024
+13,74,4.769230769230769,1,3,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,100 year old WWII veteran throws first pitch at Long Island Ducks ballpark
+11,72,5.636363636363637,1,2,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Delaware man stole $11K worth of cigarettes from Walgreens: state police
+15,81,4.466666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"If you struggle with dandruff, these are the best shampoos to keep you flake free"
+9,71,7.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Trump fact checks Harris on Charlottesville riot accusation: 'Debunked'
+16,109,5.875,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Northwestern professor, whose school gave in to anti Israel agitators, is son of notorious terrorist radicals"
+18,105,4.888888888888889,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Harris says Israel has right to defend itself as Iran, Russia and Lebanon condemn IDF strike on Hezbollah"
+15,96,5.466666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Israel on the ballot in Westchester as activists slam 'Squad' incumbent amid reported photo flap
+14,84,5.071428571428571,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Iran spouts 'propaganda' from UN podium, calls on Middle East to unite behind Tehran"
+11,72,5.636363636363637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Venezuelan Tren de Aragua gang recruiting kids from Texas middle schools
+13,84,5.538461538461538,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,NBC,'Lock him up!': Hillary Clinton smiles and nods amid chants echoing Trump supporters
+14,96,5.928571428571429,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Olivia Jade breaks silence on parents' involvement in college admissions scandal: 'We messed up'
+15,95,5.4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Miami mayor blasts far left silence on Cuban protests, says crisis exposes fallacy of socialism"
+12,67,4.666666666666667,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NBC,How a N.Y. ballot measure became a battleground in the culture wars
+15,109,6.333333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Stephen Colbert apologizes for Kate Middleton jokes before she revealed cancer diagnosis, wishes her recovery"
+16,101,5.375,1,5,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Trump Musk interview: 5 biggest takeaways from the 2024 presidential election to the US border crisis
+12,76,5.416666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Biden Harris HHS secretary sidesteps backing any limit on late term abortion
+9,50,4.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Iran warns its neighbors not to help Israel attack
+16,112,6.0625,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,NBC,Who's behind the pro Palestinian protests that are disrupting Biden's campaign events and blocking city streets?
+9,54,5.111111111111111,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Putin lays out Russia's hardline stance on peace talks
+17,103,5.117647058823529,1,4,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,FLASHBACK: See how Kamala Harris answered when she was confronted in 2020 as 'the most liberal senator'
+8,51,5.5,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,NBC,"Staff picks: Eco friendly bags, straws and skincare"
+13,78,5.076923076923077,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Netanyahu may be on course for a dramatic comeback, Israeli exit polls suggest"
+14,77,4.571428571428571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Pastor Greg Laurie details how John Lennon found God and why it matters today
+14,86,5.214285714285714,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Helene 'like a bomb went off': Florida Rep Kat Cammack details severe hurricane damage
+12,74,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Trump’s second impeachment trial is underway and the verdict is already in
+17,105,5.235294117647059,2,3,0,0,3,0,0,1,0,0,1,0,0,0,1,FoxNews,"Wealthy, liberal Nantucket, Martha's Vineyard see 6 ICE arrests in one month, including MS 13 gang member"
+18,108,5.055555555555555,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,FLASHBACK: Harris declined to intervene on behalf of native tribe push to protect sacred site from wind farm
+17,99,4.882352941176471,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Stop lifting weights in running shoes we’ve tested 12+ sneakers and these are the best for training
+17,85,4.0588235294117645,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,We covered a wide array of products in 2023 these are the ones readers loved the most
+15,87,4.866666666666666,0,5,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Battles rage across Gaza as death toll tops 35,000 and tens of thousands evacuate Rafah"
+15,110,6.4,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Hamas admits 'painful, distressing' losses after Israeli video shows terrorist Sinwar moments before his death"
+14,107,6.714285714285714,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"In Alzheimer’s breakthrough, researchers identify ‘protective gene’ that delays disease in high risk family"
+14,87,5.285714285714286,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,GOP recruits poll monitors from suburban areas to monitor the vote in Democratic cities
+14,84,5.071428571428571,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Blind Michigan judge drives race car and inspires others to follow their dreams, too"
+14,67,3.857142857142857,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Walmart Plus Week is back, and these are the best deals to shop now"
+10,82,7.3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Biden admin outlaws Palestinian organization for funding terrorism: 'Sham charity'
+15,108,6.266666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Progressive Dem slams 'reprehensible and repulsive' response to Hamas attack on Israel after 'Squad' remarks
+14,75,4.428571428571429,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Mother's Day: The best one liners and life advice I've ever gotten from Mom
+15,105,6.066666666666666,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Ga. appeals court grants Trump's request to consider Fani Willis' disqualification from his criminal case
+17,99,4.882352941176471,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Ex Obama adviser Axelrod argues Trump is incumbent in the race, Harris is 'turn the page' candidate"
+19,99,4.2631578947368425,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,Atlanta area spa shooter convicted in 4 deaths pleads not guilty to 4 more killings on the same day
+14,73,4.285714285714286,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,FBI arrests Jan. 6 rioter whose photo was featured in a Biden campaign ad
+9,62,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Fact checking the presidential debate between Trump and Harris
+16,108,5.8125,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Sunny Hostin horrified by poll that found millions of Americans support violence to stop Trump: 'Despicable'
+12,80,5.75,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,ICC prosecutor applies for arrest warrants for Netanyahu and Hamas leader Sinwar
+15,89,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Regional rivals Iran and Saudi Arabia agree to restore their ties after years of tensions
+14,97,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Former Israeli soldier suggests hostage rescue operations behind delay in ground invasion of Gaza
+16,93,4.875,0,5,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"Exploding pagers belonging to Hezbollah kill at least 9 and injure more than 2,750 in Lebanon"
+12,70,4.916666666666667,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Shop discounts on razors, duvets, nail care and more this Cyber Monday"
+14,78,4.642857142857143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,The Taliban publish vice laws that ban women's voices and bare faces in public
+15,100,5.733333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,US Supreme Court upholds controversial anti camping laws used against homeless people in Oregon city
+16,93,4.875,1,3,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,The American Legion turns 103: A brief history of the organization formed to aid WWI veterans
+14,71,4.142857142857143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Trump reveals which US rival will be his first phone call if re elected
+11,61,4.636363636363637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Inside the right’s effort to build a voter fraud hunting tool
+10,57,4.8,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Biden approval rating plummets to 15 year low, poll finds"
+10,74,6.5,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Kamala Harris staff contending with low morale, internal tensions: reports"
+16,90,4.6875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,These night creams work while you sleep to combat dry winter skin and boost glow overnight
+11,74,5.818181818181818,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Tennessee school shooting: What to know about Covenant School in Nashville
+14,70,4.071428571428571,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NBC,"There's no real cure for rosacea, but there are ways to tame flare ups"
+17,107,5.352941176470588,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Meet the American who founded the American Legion, Theodore Roosevelt Jr., privileged to fight and to serve"
+13,91,6.076923076923077,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,'Great weeknight dinner' of classic meatballs with garlic bread a celebrity chef's favorite
+14,86,5.214285714285714,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Walz confronted by ABC host over Harris denying she’d do anything different than Biden
+12,74,5.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Mudslinging candidates in heated House race face voters on big primary day
+10,60,5.1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Poll: Voters' choice has flipped in Arizona since last month
+17,101,5.0,1,6,0,0,3,0,0,0,0,0,1,0,0,0,1,FoxNews,"On this day in history, October 10, 1845, US Naval Academy founded after planned mutiny shocks nation"
+15,100,5.733333333333333,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Baltimore Key Bridge collapse: Cargo ship that caused disaster had 2 power failures before departure
+17,93,4.529411764705882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,The Walmart Holiday Deals event is happening now and some of the deals are better than Amazon
+10,68,5.9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,‘Very afraid’: Israeli bombing leaves no rest for weary Palestinians
+13,70,4.461538461538462,0,3,0,0,0,0,0,0,0,0,1,1,0,0,1,FoxNews,How to talk to children about 9/11 and the tragic events that unfolded
+13,96,6.461538461538462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Texas woman arrested and charged with threatening federal judge overseeing Trump’s election case
+10,63,5.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Mongolia ignores ICC demands to arrest Putin during state visit
+12,78,5.583333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Abortion rights, gun violence in the spotlight at final Michigan Senate debate"
+12,84,6.083333333333333,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,MSNBC host defends Harris avoiding policy questions: She's 'not running for perfect'
+11,65,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Harris leans on ‘McCain Republicans’ to close the deal in Arizona
+16,106,5.6875,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"Israeli military is destroying hospitals and targeting medical staff in Gaza, doctors and nurses there say"
+11,71,5.545454545454546,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,NBC,The ultimate embarrassment for a cricket powerhouse: Losing to Team USA
+11,80,6.363636363636363,0,2,0,0,0,1,0,1,1,0,1,0,0,0,1,FoxNews,Nashville Christian school shooting timeline: Audrey Hale's 14 minutes of mayhem
+15,98,5.6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Charlamagne tha God says young Black man predicted Trump's podcast appearance will get him elected
+14,99,6.142857142857143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Kamala Harris dodges Colbert's question on what 'major changes' she'd bring versus Biden presidency
+12,91,6.666666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Trump assassination attempt suspect laughs, smiles during first court appearance in Florida"
+10,81,7.2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Airline passenger captures 'manspreading' moment in viral TikTok, sparking debate"
+11,73,5.7272727272727275,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Israel is debating annexation. Here's what two former peace envoys think.
+17,106,5.294117647058823,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Reporter on MSNBC says migrants 'not angry at DeSantis,' but are thanking him for Martha's Vineyard flight"
+13,72,4.615384615384615,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,4 products you should shop and 7 you probably shouldn’t during Prime Day
+10,59,5.0,1,4,0,0,3,1,0,1,1,0,1,0,0,0,1,FoxNews,"Sharon Stone, 63, 'hanging out' with rapper RMR, 25: report"
+10,58,4.9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Poll: Voters cite high prices as biggest motivator to vote
+13,89,5.923076923076923,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"U.S. sending powerful defense system to Israel, deepening its involvement in the conflict"
+14,103,6.428571428571429,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"'Lies throughout': Trump backed challenger, longtime Dem senator face off in heated battleground debate"
+11,69,5.363636363636363,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Hurricane flooding: 3 health warnings about mold growing in your home
+9,52,4.888888888888889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Hamas says it has taken ‘dozens’ of Israelis hostage
+9,50,4.666666666666667,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,NBC,Who are the American hostages still held by Hamas?
+14,72,4.214285714285714,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Club Q, site of deadly Colorado mass shooting, set to reopen in the fall"
+10,73,6.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Britons cast their votes in heavily anticipated UK parliamentary election
+17,109,5.470588235294118,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,MSNBC's Stephanie Ruhle calls out Harris for dodging how she'd raise taxes: 'She doesn't answer the question'
+15,79,4.333333333333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Sen. Joe Manchin calls on Biden to step aside, pass torch to 'a new generation'"
+10,62,5.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Alabama governor signs bill to protect IVF treatments into law
+12,72,5.083333333333333,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,'Scrambled pancakes' cause viral stir on social media: 'This is a crime'
+11,78,6.181818181818182,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Palestinian president threatens to cut security ties over Trump's Mideast plan
+16,103,5.5,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,A tense new Jan. 6 video shows Republican congressmen admonishing rioters trying to enter House chamber
+14,78,4.642857142857143,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,Michelle Obama: The office Trump seeks 'might just be one of those Black jobs'
+10,65,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Supreme Court overturns Roe v. Wade in landmark abortion decision
+13,85,5.615384615384615,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"As deadly heat waves spread, access to air conditioning becomes a lifesaving question"
+12,82,5.916666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Clean water becomes an increasingly scarce resource in Gaza amid Israeli offensive
+11,66,5.090909090909091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Biden delivers an ode to Harris in Democratic convention swan song
+9,54,5.111111111111111,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NBC,What you need to know about Israeli Palestinian crisis
+16,101,5.375,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Six states sue Biden administration over new Title IX protections for trans athletes in girls' sports
+10,74,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Netanyahu government makes West Bank settlement its expansion top priority
+15,100,5.733333333333333,1,5,0,0,1,0,0,1,0,0,1,0,0,0,1,FoxNews,"Analysis finds Americans need extra $11,400 to afford the basics as GOP lawmakers blame 'Bidenomics'"
+14,95,5.857142857142857,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,FoxNews,Israel strikes Hezbollah targets inside Lebanon; IDF warns residents to stay near bomb shelters
+9,74,7.333333333333333,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Trump VP contenders torch 'guaranteed' guilty verdict: 'Complete travesty'
+13,82,5.384615384615385,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,NBC,"1 year after Atlanta area spa shootings, Asian American community is still healing"
+16,91,4.75,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,RFK Jr.'s running mate outlines 'two options': Drop out and back Trump or 'risk' Harris win
+17,102,5.0588235294117645,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Harris claims Biden fit to continue in office, despite more than 80 documented encounters in past year"
+15,78,4.266666666666667,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Stay toasty with these 8 bedding picks that will keep you warm all winter long
+14,81,4.857142857142857,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"With smirks and head shakes, Harris uses the split screen format to provoke Trump"
+11,87,7.0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NBC,"Democrats maintain control of Senate, projects, defeating many Trump backed Republicans"
+7,42,5.142857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Hamas leader Ismail Haniyeh killed in Iran
+15,97,5.533333333333333,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Building Trump shooter used to fire shots at president was responsibility of local police: source
+12,75,5.333333333333333,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,Iran attack: Tehran warns of 'severe' retaliation to any new Israeli attack
+19,103,4.473684210526316,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Arizona's Kari Lake tears into Kamala Harris on the border: 'The only Walz she supports is her VP pick'
+9,59,5.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Palestinian children battle a deadly foe in Gaza starvation
+12,82,5.916666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Freedom Caucus draws first battle lines in election year government shutdown fight
+15,83,4.6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Inside the bitter personal battle between top FBI and DOJ officials over Mar a Lago
+13,63,3.923076923076923,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,NBC,"The Apple HomePod comes with a hefty price tag, is it worth it?"
+15,99,5.666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Bangladesh’s top court scales back government jobs quota after deadly unrest that has killed scores
+19,101,4.368421052631579,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,21+ best Valentine’s Day gifts for men who are impossible to shop for (and will still arrive in time)
+11,68,5.2727272727272725,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump's dark rhetoric about big cities returns to the campaign trail
+13,88,5.846153846153846,1,0,0,0,2,1,0,1,1,0,0,0,0,0,0,NBC,"Bodyguard, bank, vaccine critic: RFK Jr.'s celebrity protector plays a key campaign role"
+16,101,5.375,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Trump declares border a 'war zone,' dings Newsom for doing 'terrible job' as migrant epicenter shifts"
+14,92,5.642857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Toronto police respond to viral video of officers delivering coffee to anti Israel protester
+13,91,6.076923076923077,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Arnold Schwarzenegger expands on his current relationship status with ex wife Maria Shriver
+11,70,5.454545454545454,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,U.S. officials expect Israeli response to Iran strikes will be limited
+14,95,5.857142857142857,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"Olivia Jade's influencer brand is a 'dumpster fire' and 'dangerous to advertisers,' says expert"
+15,99,5.666666666666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Trump turns conviction into cash, with a record fundraising haul following guilty verdicts in trial"
+13,91,6.076923076923077,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"On Memorial Day, Lee Greenwood remembers America's heroes: 'Never take freedom for granted'"
+15,79,4.333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Sen. Mitch McConnell will step down as Republican leader at the end of the year
+14,105,6.571428571428571,1,0,0,0,2,0,0,1,0,0,0,0,0,0,1,FoxNews,"Kamala Harris, DNC undertaking 'largest gaslighting operation' in history of politics, says House speaker"
+14,108,6.785714285714286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Instagram to automatically put teens into private accounts with increased restrictions and parental controls
+14,88,5.357142857142857,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Lupus expert debunks 7 common myths about the autoimmune disease: ‘Not a death sentence’
+10,56,4.7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,FoxNews,Power Rankings: All eyes could be on Omaha this November
+11,84,6.7272727272727275,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Columbia University bars pro Israel professor from campus for 'threatening behavior'
+10,71,6.2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Videos taken inside Apalachee High School show gun, ordered evacuations"
+15,86,4.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,IDF faces increased scrutiny as more details come out in wake of deadly hostage rescue
+15,93,5.266666666666667,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,FoxNews,"Hit the road: New study suggests travel could delay aging, improve physical and mental health"
+13,100,6.769230769230769,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,FoxNews,"Bruce Willis, Demi Moore and Arnold Schwarzenegger, Maria Shriver still have ‘forever’ relationships"
+14,87,5.285714285714286,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,FoxNews,"Walz's lack of media exposure hurt him in debate, commentators admit: 'Out of practice'"
+10,67,5.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Bangladesh protesters call on Nobel laureate Muhammad Yunus to lead
+8,67,7.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"YevgenyPrigozhin plane crash was likely sabotage, evidence suggests"
+18,97,4.444444444444445,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"Reducing salt intake by just 1 teaspoon a day has same effect as blood pressure meds, study finds"
+14,84,5.071428571428571,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,NSA official warns of hackers using AI to perfect their English for phishing schemes
+16,87,4.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NBC,Why Palestinians fear that if they leave northern Gaza they may never be able to return
+17,105,5.235294117647059,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,FoxNews,"Iran tried to influence election by sending stolen material from Trump campaign to Biden’s camp, FBI says"
+9,47,4.333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Barack Obama cuts new ads in major Senate races
+11,79,6.2727272727272725,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,GOP lawmaker in hurricane ravaged Georgia demands emergency session of Congress
+13,80,5.230769230769231,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,NBC,"'I'm not a progressive': Fetterman breaks with the left, showing a maverick side"
+8,61,6.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Taylor Swift endorses Kamala Harris after presidential debate
+8,53,5.75,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump's name will appear on coronavirus relief checks
+14,84,5.071428571428571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,North Carolina Gov. Roy Cooper backs out of consideration to be Harris’ running mate
+13,87,5.769230769230769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Netanyahu faces mounting protests and outrage but stands defiant on hostage deal demand
+17,116,5.882352941176471,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,NBC,Israel targets presumed new Hezbollah leader in massive Beirut strikes; Iran's leader issues warnings in rare speech
+18,109,5.111111111111111,0,2,0,0,0,1,0,0,1,0,1,0,0,0,1,FoxNews,Nashville school shooter Audrey Hale: Who is 28 year old transgender former student who opened fire at school
+14,67,3.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,The best things to buy during October Prime Day and what not to buy
+11,70,5.454545454545454,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NBC,"U.S. soldier detained in Russia and accused of stealing, officials say"
+14,85,5.142857142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,Latino voters may make or break the presidential election in swing states like Nevada
+13,82,5.384615384615385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Israel launches airstrikes in Gaza after deadly West Bank raid sparked rocket fire
+14,91,5.571428571428571,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,FoxNews,"One Direction members 'devastated by' Liam Payne’s death, say they 'will miss him terribly'"
+9,61,5.888888888888889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Former top legal officials oppose judicial overhaul in Israel
+10,64,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Brazil’s top court orders nationwide suspension of Elon Musk’s X
+14,96,5.928571428571429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FoxNews,‘Euphoria’ star Sydney Sweeney’s dad ‘walked out’ during her explicit scenes after watching show
+16,102,5.4375,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,'Basic Instinct' director denies Sharon Stone's claim that she was tricked into showing nudity in film
+13,93,6.230769230769231,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,NBC,'Five alarm fire': Supreme Court immunity ruling raises fears about future lawless presidents
+14,81,4.857142857142857,0,4,0,0,1,0,0,1,0,0,1,0,0,0,0,NBC,"McConnell calls out 'diminished' Trump, vows not to bow to his candidates in 2024"
+13,71,4.538461538461538,2,1,0,0,1,0,0,0,0,0,1,0,0,0,1,FoxNews,"US Israeli citizen who was kidnapped on Oct. 7 confirmed dead, IDF says"
+8,50,5.375,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,NBC,101+ Latino owned businesses to support year round
+11,65,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Trump goes after Harris with anti trans ads during football games
+11,62,4.7272727272727275,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,FoxNews,Sleep better on your road trip with these 13 travel essentials
+16,85,4.375,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NBC,Trump gets hit from all sides for testing a softer abortion message 'in order to win'
+17,100,4.9411764705882355,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,FoxNews,Biden's border policies would likely be extended if this swing state Dem governor is the new nominee
+10,76,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NBC,Gaza Strip experiencing internet outages and electricity cuts after bombings
+21,108,4.190476190476191,0,1,0,0,2,0,0,0,0,0,1,0,0,0,1,FoxNews,"Jake E Lee, former guitarist for Ozzy Osbourne, ‘broke a rib and damaged a lung’ after being shot at 3 times"
+11,86,6.909090909090909,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,FoxNews,Airline passenger's 'awkward' seating arrangement goes viral: 'Never going to recover'
+11,75,5.909090909090909,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,NBC,"Ramadan in Gaza: Palestinians fast amid war, devastation and looming famine"

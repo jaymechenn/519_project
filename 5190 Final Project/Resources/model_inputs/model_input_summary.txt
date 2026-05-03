@@ -1,0 +1,61 @@
+Model Input Preparation Summary
+==================================================
+
+Input files used:
+Train: C:\Users\diego\Downloads\519_project\5190 Final Project\Resources\processed\train.csv
+Validation: C:\Users\diego\Downloads\519_project\5190 Final Project\Resources\processed\val.csv
+Test: C:\Users\diego\Downloads\519_project\5190 Final Project\Resources\processed\test.csv
+
+Label mapping:
+- NBC = 0
+- FoxNews = 1
+
+1. Baseline TF-IDF inputs
+- Directory: Resources/model_inputs/baseline_tfidf/
+- Uses sklearn TfidfVectorizer
+- Features: unigrams and bigrams
+- stop_words='english'
+- min_df=2
+- max_df=0.95
+- Vectorizer fit only on training data
+- X_train_tfidf shape: (2279, 4068)
+- X_val_tfidf shape: (760, 4068)
+- X_test_tfidf shape: (760, 4068)
+
+2. Advanced handcrafted features
+- Directory: Resources/model_inputs/advanced_features/
+- Contains numeric headline-style features
+- Intended for Random Forest, Gradient Boosting, MLP, stacking, etc.
+- Feature columns:
+  - headline_length_words
+  - headline_length_chars
+  - avg_word_length
+  - num_uppercase_words
+  - num_digits
+  - num_exclamation_marks
+  - num_question_marks
+  - num_commas
+  - num_colons
+  - num_semicolons
+  - contains_quote
+  - contains_colon
+  - contains_question
+  - contains_number
+  - starts_with_how
+  - starts_with_why
+  - starts_with_what
+
+3. Transformer-ready inputs
+- Directory: Resources/model_inputs/transformer/
+- Contains cleaned headline text, label, and source
+- No TF-IDF used for transformers
+- Tokenization should happen in train_transformer.py
+- Recommended first transformer: distilbert-base-uncased
+
+Recommended script order:
+1. python src/data_processing_eda.py
+2. python src/prepare_model_inputs.py
+3. python src/train_baseline_models.py
+4. python src/train_advanced_classifiers.py
+5. python src/train_transformer.py
+6. python src/ensemble_model.py
