@@ -7,7 +7,11 @@ import time
 from typing import Any, List, Tuple, Dict
 
 import numpy as np
-import torch
+
+try:
+    import torch
+except ModuleNotFoundError:
+    torch = None
 
 
 def _dynamic_import(module_path: str, module_name: str):
@@ -49,7 +53,7 @@ def _load_state_into_target(target: Any, sd: Dict[str, Any]) -> int:
     target_sd = target.state_dict()
     filtered: Dict[str, Any] = {}
     for k, v in sd.items():
-        if k in target_sd and isinstance(v, torch.Tensor) and target_sd[k].shape == v.shape:
+        if torch is not None and k in target_sd and isinstance(v, torch.Tensor) and target_sd[k].shape == v.shape:
             filtered[k] = v
     if not filtered:
         return 0
@@ -62,6 +66,8 @@ def _load_checkpoint(model: Any, ckpt_path: str | None) -> Any:
         if hasattr(model, "eval"):
             model.eval()
         return model
+    if torch is None:
+        raise RuntimeError("PyTorch is required to load a checkpoint.")
     checkpoint = torch.load(ckpt_path, map_location="cpu")
     if isinstance(checkpoint, dict) and "state_dict" in checkpoint:
         sd = _normalize_state_dict_keys(checkpoint["state_dict"])  # type: ignore[index]
@@ -91,6 +97,8 @@ def _predict_in_batches(model: Any, X: List[Any], batch_size: int = 32) -> Tuple
         if has_predict:
             batch_preds = model.predict(batch)
         else:
+            if torch is None:
+                raise RuntimeError("PyTorch is required for models without a predict() method.")
             with torch.no_grad():
                 outputs = model(batch)
                 if hasattr(outputs, "argmax"):
@@ -101,7 +109,7 @@ def _predict_in_batches(model: Any, X: List[Any], batch_size: int = 32) -> Tuple
         infer_time = end - start
         total_s += infer_time
         total_examples += len(batch)
-        if isinstance(batch_preds, torch.Tensor):
+        if torch is not None and isinstance(batch_preds, torch.Tensor):
             batch_preds = batch_preds.cpu().tolist()
         preds.extend(list(batch_preds))
     avg_ms = (total_s / max(total_examples, 1)) * 1000.0
@@ -165,7 +173,7 @@ def main() -> None:
 
     X, y = preproc_mod.prepare_data(args.csv)
 
-    if isinstance(X, torch.Tensor):
+    if torch is not None and isinstance(X, torch.Tensor):
         inputs = list(X)
     elif isinstance(X, np.ndarray):
         inputs = list(X)
@@ -184,5 +192,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
 

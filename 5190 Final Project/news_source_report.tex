@@ -1,0 +1,144 @@
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{mathtools,bbm}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{algorithmicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage[colorlinks,linkcolor=blue]{hyperref}
+\usepackage[noabbrev]{cleveref}
+\usepackage{courier}
+\usepackage{enumitem}
+\usepackage[parfill]{parskip}
+\usepackage{multicol}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{xcolor}
+
+\setlist[itemize]{itemsep=.01cm, topsep=.01cm}
+\setlist[enumerate]{itemsep=.01cm, topsep=.01cm}
+
+\oddsidemargin 0in
+\evensidemargin 0in
+\textwidth 6.5in
+\topmargin -0.5in
+\textheight 9.0in
+\setlength{\parskip}{8pt}
+
+\newcommand{\head}[4]{
+\thispagestyle{plain}
+\newpage
+\setcounter{page}{1}
+\noindent
+\begin{center}
+\framebox{ \vbox{ \hbox to 6.28in
+{CIS 4190/5190: Applied Machine Learning \hfill #1}
+\vspace{4mm}
+\hbox to 6.28in
+{\hspace{2.5in}\large\bf\mbox{#2}}
+\vspace{4mm}
+\hbox to 6.28in
+{{\it #3 \hfill #4}}
+}}
+\end{center}
+}
+
+\begin{document}
+\head{Spring 2026}{News Source Classification from Headlines}{Team Members: [Your Names]}{Project: News Source}
+
+\section{Introduction}
+This project studies whether short news headlines contain enough textual and stylistic signal to identify their source as either NBC or FoxNews. We built a binary classifier that uses only headline text as input; URLs are used only to create labels and are not used as model features. Our final submission model combines word-level and character-level TF-IDF representations with a linear classifier saved as a PyTorch checkpoint for compatibility with the project evaluator.
+
+The main finding is that headline style is highly predictive. A simple word TF-IDF logistic regression baseline reached 77.89\% test accuracy, while our final word+character hashed TF-IDF model reached 84.34\% test accuracy. Character n-grams were especially useful because they capture formatting, phrasing, punctuation, capitalization, and source-specific headline style beyond individual topic words. We also explored diverse ensemble methods, including tuned logistic regression, calibrated SVMs, SGD classifiers, Random Forests, MLPs, weighted soft voting, and stacking. The best ensemble-style selection also identified the high-dimensional word+character SVM as the strongest model, matching the final 84.34\% held-out test accuracy.
+
+\section{Core Components}
+
+\subsection{Data Collection and Dataset}
+The dataset consists of 3,805 news article URLs paired with headlines. We derived source labels directly from each URL domain: URLs containing \texttt{foxnews.com} were labeled FoxNews and URLs containing \texttt{nbcnews.com} were labeled NBC. Importantly, URLs were not used as predictive features because the task is to classify news source from headline text only.
+
+During cleaning, we removed rows with missing or invalid headlines, removed unknown source domains, normalized whitespace, and removed exact duplicate headlines. The final cleaned dataset contained 3,799 examples: 2,000 FoxNews headlines and 1,799 NBC headlines. This corresponds to a mild class imbalance of 52.65\% FoxNews and 47.35\% NBC. We used stratified train/validation/test splits: 2,279 training examples, 760 validation examples, and 760 test examples. The average headline length was approximately 13.3 words and 82.9 characters.
+
+\subsection{Preprocessing}
+The submitted preprocessing pipeline reads either processed CSV files with \texttt{headline\_clean} and \texttt{label} columns or raw CSV files with \texttt{url} and \texttt{headline} columns. For raw files, labels are generated from the URL domain. The headline preprocessing includes lowercasing, URL removal, HTML removal, whitespace normalization, and robust handling of missing text. We also implemented a lightweight lemmatization helper that can normalize simple suffix patterns without requiring external downloads.
+
+The final model also cleans text internally before vectorization. This makes prediction robust even if raw headlines are passed directly to \texttt{model.predict}. Stopword filtering is applied in the word-level vectorizer so common function words have less influence on the final classification.
+
+\subsection{Model Design}
+We began with a baseline TF-IDF + Logistic Regression model using word unigrams and bigrams. This model is simple, fast, and interpretable, but it mostly captures content words. Since NBC and FoxNews can cover similar topics, we expected content words alone to miss source-specific writing style.
+
+Our final model uses two complementary feature views:
+\begin{itemize}
+    \item \textbf{Word n-gram TF-IDF}: word unigrams and bigrams with English stopword filtering. This captures topic and phrase-level signals.
+    \item \textbf{Character n-gram TF-IDF}: character n-grams from length 2 to 5. This captures style, punctuation, morphology, formatting, and repeated headline patterns.
+\end{itemize}
+
+For speed and evaluator compatibility, the final submitted model uses high-dimensional hashed TF-IDF features with 131,072 dimensions for each view. The word and character feature blocks are IDF-weighted and L2-normalized separately, then concatenated. A linear SVM-style classifier is trained on top of the combined feature vector. The trained IDF values and classifier weights are stored in \texttt{news\_source\_pytorch.pt}, while \texttt{model.py} defines a PyTorch module that loads the checkpoint and performs inference.
+
+\subsection{Model Iterations}
+We evaluated several increasingly diverse model designs:
+\begin{itemize}
+    \item \textbf{Baseline}: word TF-IDF + Logistic Regression.
+    \item \textbf{Character model}: character n-gram TF-IDF + calibrated Linear SVM.
+    \item \textbf{Combined word+character models}: SGD and SVM classifiers over both feature views.
+    \item \textbf{Nonlinear models}: Random Forest and MLPClassifier trained on SVD-reduced TF-IDF features.
+    \item \textbf{Ensembles}: weighted soft voting and stacking with Logistic Regression as the meta-model.
+\end{itemize}
+
+We used \texttt{GridSearchCV} with stratified cross-validation to tune major hyperparameters such as n-gram ranges, SVM regularization strength, logistic regression regularization, SGD regularization, Random Forest depth and leaf size, MLP hidden size, and SVD dimensionality. For models without native calibrated probabilities, we used probability calibration where needed so they could participate in soft voting and stacking.
+
+The ensemble experiments showed that not all diversity improves performance. Random Forest and MLP models added architectural diversity, but they performed worse than the strongest linear text models. Stacking and soft voting improved robustness, but the final model-selection procedure found that the strongest single high-dimensional word+character SVM had fewer errors than an average over weaker learners.
+
+\subsection{Evaluation and Model Performance}
+We evaluated models internally using validation accuracy and selected final models based on validation performance before measuring held-out test performance. Accuracy was the primary metric because the dataset is nearly balanced, and we also monitored precision, recall, and F1-score for both classes.
+
+\begin{center}
+\begin{tabular}{lccc}
+\hline
+\textbf{Model} & \textbf{Validation Accuracy} & \textbf{Test Accuracy} & \textbf{Notes} \\
+\hline
+TF-IDF + Logistic Regression baseline & 0.7750 & 0.7789 & word n-grams only \\
+Diverse stacking ensemble & 0.8132 & 0.8303 & soft voting/stacking over tuned models \\
+Final word+character hashed TF-IDF SVM & 0.8276 & 0.8434 & submitted PyTorch checkpoint \\
+\hline
+\end{tabular}
+\end{center}
+
+The final model achieved 84.34\% test accuracy. On the test set, NBC precision/recall/F1 were 0.83/0.84/0.84, and FoxNews precision/recall/F1 were 0.86/0.84/0.85. Compared with the baseline, the final model improved test accuracy by about 6.55 percentage points.
+
+\section{Exploratory Components}
+
+\subsection{Technique: Diverse Feature Representations and Ensemble Selection}
+Our main exploratory technique was to reduce correlated mistakes by using different feature representations and model families. We compared word n-gram TF-IDF, character n-gram TF-IDF, combined word+character features, dense SVD-reduced features, and high-dimensional hashed TF-IDF. We paired these representations with Logistic Regression, Linear SVM, SGDClassifier, Random Forest, MLPClassifier, calibrated SVMs, soft voting, and stacking.
+
+The key result was that diversity helps only when the added models are both different and accurate. Character n-grams gave the biggest improvement because they captured source-specific writing style that word features missed. However, lower-performing Random Forest and MLP models introduced noise into the ensemble. The best selection strategy therefore compared both ensemble models and individual base models, choosing the high-dimensional word+character SVM when it had the strongest validation performance.
+
+\subsection{Code: Submission-Compatible PyTorch Checkpoint}
+The project evaluator expects a \texttt{model.py}, a \texttt{preprocess.py}, and an optional PyTorch checkpoint. Since the best classical text model was not naturally a neural network, we implemented a PyTorch-compatible wrapper. The model uses scikit-learn's deterministic hashing vectorizer to produce word and character features, then applies IDF weights and a PyTorch linear layer. We copied the learned linear decision boundary into the PyTorch layer and saved it as a \texttt{.pt} checkpoint.
+
+This approach preserves fast classical text classification while satisfying the evaluator interface. Inference remained efficient, with evaluator runs around 0.7 ms per example on the held-out test set.
+
+\subsection{Analysis: What Signals Distinguish the Sources?}
+EDA showed that the classes are mildly imbalanced but close enough for accuracy to remain meaningful. FoxNews represented 52.65\% of cleaned examples, while NBC represented 47.35\%. Headline lengths were relatively short, with a median of 13 words. Because short text contains limited semantic context, character-level stylistic cues became especially important. The success of character n-grams suggests that punctuation, phrasing conventions, and formatting are useful indicators of source, not just article topic.
+
+\section{Team Contributions}
+[Team Member 1] worked on data cleaning, EDA, and dataset splitting. [Team Member 2] developed baseline and ensemble models. [Team Member 3] implemented the PyTorch-compatible submission model and checkpoint export. [Team Member 4] contributed evaluation, error analysis, and report writing. Replace these placeholders with the actual names and contributions for your team.
+
+\section{Extra Credit}
+Video demo link: [Insert video link here if submitting a demo.]
+
+\vspace{3em}
+\noindent
+{\bf Page limit:} The main body of the report should be no more than 5 pages, excluding references. You may include additional text, results, or proofs in the appendix. However, ensure that all important findings are included in the main body, as the project grading team will primarily focus on evaluating the main body of the report.
+
+\section{(Optional, not included within 5 page limit) Acknowledgments of help received from outside of the project team}
+We used standard Python machine learning libraries including pandas, scikit-learn, PyTorch, matplotlib, and joblib. No outside labeled data was added beyond the provided news headline dataset.
+
+\section{(Optional, not included within 5 page limit) Suggestions for future iterations of this project}
+Future work could evaluate lightweight transformer embeddings such as DistilBERT or sentence-transformer embeddings. These models may capture semantic framing that sparse TF-IDF features miss. Another extension would be to collect additional headlines across time to test whether the model generalizes to new news cycles rather than memorizing time-specific topics.
+
+\section{(Optional, not included within 5 page limit) Plots and appendix}
+Relevant generated plots include \texttt{class\_balance.png}, \texttt{headline\_length\_distribution.png}, \texttt{headline\_length\_by\_source.png}, \texttt{pytorch\_confusion\_matrix.png}, and \texttt{ensemble\_confusion\_matrix.png}.
+
+\end{document}
