@@ -1,0 +1,32 @@
+Ensemble Model: Soft Voting over TF-IDF Classifiers
+============================================================
+
+Member Validation Accuracy:
+- word_lr: 0.7855
+- char_svm: 0.8039
+- word_nb: 0.7711
+- word_sgd: 0.7474
+
+Ensemble Validation Accuracy: 0.7908
+Ensemble Test Accuracy: 0.8026
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+         NBC       0.78      0.79      0.78       360
+     FoxNews       0.81      0.80      0.80       400
+
+    accuracy                           0.79       760
+   macro avg       0.79      0.79      0.79       760
+weighted avg       0.79      0.79      0.79       760
+
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+         NBC       0.82      0.75      0.78       360
+     FoxNews       0.79      0.85      0.82       400
+
+    accuracy                           0.80       760
+   macro avg       0.80      0.80      0.80       760
+weighted avg       0.80      0.80      0.80       760
