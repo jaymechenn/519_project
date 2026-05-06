@@ -1,0 +1,26 @@
+PyTorch Checkpoint Model: Character Hash TF-IDF + Linear Classifier
+========================================================================
+
+Validation Accuracy: 0.8276
+Test Accuracy: 0.8434
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+         NBC       0.85      0.77      0.81       360
+     FoxNews       0.81      0.88      0.84       400
+
+    accuracy                           0.83       760
+   macro avg       0.83      0.82      0.83       760
+weighted avg       0.83      0.83      0.83       760
+
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+         NBC       0.83      0.84      0.84       360
+     FoxNews       0.86      0.84      0.85       400
+
+    accuracy                           0.84       760
+   macro avg       0.84      0.84      0.84       760
+weighted avg       0.84      0.84      0.84       760
